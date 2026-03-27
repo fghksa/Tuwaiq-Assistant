@@ -1,0 +1,1994 @@
+[
+    {
+        "id": 1,
+        "instruction": "ما هي أكاديمية طويق؟",
+        "reference_answer": "أكاديمية طويق هي جهة تعليمية تهدف إلى تطوير المهارات التقنية وتأهيل الكوادر في مجالات البرمجة والتقنية.",
+        "model_answer": "هي أكاديمية تقنية تعليمية توفر برامج تدريبية في التكنولوجيا والبرمجة.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer accurately identifies Tuwaiq Academy as an educational technology institution offering training in technology and programming, which aligns well with the Reference Answer's description of developing technical skills and qualifying personnel in programming and technology. However, it omits the specific mention of 'developing skills and qualifying personnel' which is present in the Reference Answer, making it slightly less complete."
+    },
+    {
+        "id": 2,
+        "instruction": "ما الهدف من أكاديمية طويق؟",
+        "reference_answer": "تهدف أكاديمية طويق إلى تمكين الأفراد بالمهارات التقنية اللازمة لمواكبة سوق العمل.",
+        "model_answer": "الهدف من أكاديمية طويق هو تطوير مهارات الطلاب في مجالات تقنية، وزيادة قدرتهم على العمل في الصناعة.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer accurately captures the core purpose of developing technical skills and enhancing employability, aligning closely with the Reference Answer's emphasis on empowering individuals with technical skills for the job market. However, it slightly narrows the focus to 'students' rather than the broader 'individuals' mentioned in the Reference Answer, making it slightly less complete but still highly relevant and accurate."
+    },
+    {
+        "id": 3,
+        "instruction": "هل برامج أكاديمية طويق مجانية؟",
+        "reference_answer": "نعم، معظم برامج أكاديمية طويق تقدم مجانًا بهدف دعم وتطوير المهارات التقنية.",
+        "model_answer": "لا يوجد في المصادر المعروفة معلومات عن تطبيق رسوم على البرامج، وربما تكون مجانية.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer is partially correct but lacks confidence and precision. It correctly suggests the programs might be free but uses hedging language ('ربما تكون مجانية') and references unspecified sources. The reference answer provides a clear, affirmative statement with additional context about the purpose of free programs, making it more complete and accurate."
+    },
+    {
+        "id": 4,
+        "instruction": "كيف يمكنني التسجيل في أكاديمية طويق؟",
+        "reference_answer": "يمكنك التسجيل من خلال الموقع الرسمي لأكاديمية طويق واختيار البرنامج المناسب ثم تعبئة نموذج التسجيل.",
+        "model_answer": "يمكن التسجيل عبر الموقع الإلكتروني أو عبر بريد التواصل مع البريد الإلكتروني.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer is partially accurate and relevant, mentioning the website as a registration method, which aligns with the Reference Answer. However, it lacks completeness by omitting key steps like selecting a program and filling out the registration form, and introduces an unverified alternative method (email contact) not mentioned in the Reference Answer, reducing reliability."
+    },
+    {
+        "id": 5,
+        "instruction": "هل يمكن للجميع التقديم في أكاديمية طويق؟",
+        "reference_answer": "نعم، يمكن لأي شخص التقديم بشرط استيفاء متطلبات البرنامج.",
+        "model_answer": "بالنسبة للبرامج التي لا تتطلب خبرة سابقة، تكون المشاركة مفتوحة. لكن بعض البرامج تحتاج إلى مؤهلات أو خبرة محددة.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer is partially accurate and relevant but incomplete. It correctly notes that some programs have specific requirements, aligning with the Reference Answer's condition of meeting program requirements. However, it fails to explicitly state that anyone can apply, which is the core affirmative response in the Reference Answer. The answer is not wrong but lacks the direct, clear affirmation present in the ground truth."
+    },
+    {
+        "id": 6,
+        "instruction": "هل تقدم أكاديمية طويق شهادات؟",
+        "reference_answer": "نعم، تقدم أكاديمية طويق شهادات معتمدة بعد إتمام البرامج بنجاح.",
+        "model_answer": "نعم، توفر أكاديمية طويق شهادات معتمدة.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately confirms that the academy provides certificates, matches the reference answer's key information about certified certificates, and is fully relevant to the instruction. It is concise yet complete, with no errors or omissions."
+    },
+    {
+        "id": 7,
+        "instruction": "ما نوع البرامج التي تقدمها أكاديمية طويق؟",
+        "reference_answer": "تقدم أكاديمية طويق برامج في مجالات البرمجة، الذكاء الاصطناعي، الأمن السيبراني، وغيرها من التخصصات التقنية.",
+        "model_answer": "تشمل البرامج المتعلقة بالتكنولوجيا والبرمجة والهندسة والتصميم، وتتراوح بين البرامج الأكاديمية والبرامج التطبيقية.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer is partially accurate and relevant, mentioning technology and programming which aligns with the Reference Answer's focus on technical fields. However, it lacks specificity about key areas like artificial intelligence and cybersecurity mentioned in the Reference Answer, and includes broader categories (engineering, design) not referenced, making it incomplete. It also adds detail about academic vs. applied programs, which is not incorrect but not directly requested."
+    },
+    {
+        "id": 8,
+        "instruction": "هل تحتاج خبرة سابقة للالتحاق بالبرامج؟",
+        "reference_answer": "يعتمد ذلك على البرنامج، فبعض البرامج لا تتطلب خبرة مسبقة.",
+        "model_answer": "عادةً لا يُطلب خبرة سابقة، إلا في بعض البرامج المتقدمة.",
+        "judge_score": 5,
+        "judge_rationale": "The Model Answer accurately conveys the same meaning as the Reference Answer, stating that prior experience is generally not required except for some advanced programs. It is complete, relevant, and matches the nuance of the Reference Answer."
+    },
+    {
+        "id": 9,
+        "instruction": "كم مدة البرامج في أكاديمية طويق؟",
+        "reference_answer": "تختلف مدة البرامج حسب نوعها، فقد تكون قصيرة أو تمتد لعدة أشهر.",
+        "model_answer": "18 شهراً (6 أشهر للبرنامج البسيط و 12 شهراً للبرنامج المتقدم).",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides specific durations (18 months total, with breakdowns), which shows some understanding of program lengths. However, it contradicts the reference answer's statement that durations vary and can be short or extend several months, by presenting fixed durations without acknowledging variability. This makes it partially accurate but incomplete and overly specific compared to the ground truth."
+    },
+    {
+        "id": 10,
+        "instruction": "هل يمكن التعلم عن بعد في أكاديمية طويق؟",
+        "reference_answer": "نعم، توفر أكاديمية طويق برامج حضورية وعن بعد.",
+        "model_answer": "نعم، تتوفر بعض البرامج والمحتوى التعليمي على منصة طويق الإلكترونية، مما يسمح بالتعلم عن بعد.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately confirms that distance learning is available at Tuwaiq Academy, correctly specifies that some programs and educational content are provided through their electronic platform, and maintains full relevance to the user's question. It aligns well with the reference answer while providing slightly more detail about the platform and content availability."
+    },
+    {
+        "id": 11,
+        "instruction": "متى يفتح التسجيل في البرامج؟",
+        "reference_answer": "يتم الإعلان عن مواعيد التسجيل عبر الموقع الرسمي وحسابات الأكاديمية.",
+        "model_answer": "يمكن أن يختلف فتح التسجيل في البرامج من سنة إلى أخرى حسب الإدارة. تواصل عبر الموقع الرسمي للحصول على معلومات صحيحة.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly noting that registration dates vary and advising to check official sources. It is slightly less complete than the Reference Answer, which explicitly mentions announcements via official website and academic accounts, while the Model Answer only mentions the official website. However, it still provides useful guidance."
+    },
+    {
+        "id": 12,
+        "instruction": "هل يوجد اختبار قبول؟",
+        "reference_answer": "بعض البرامج تتطلب اجتياز اختبار أو مقابلة للقبول.",
+        "model_answer": "نعم، يتم إجراء اختبار قبول.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer is partially accurate and relevant but incomplete. It correctly confirms the existence of acceptance tests (نعم، يتم إجراء اختبار قبول) which aligns with the reference answer's mention that some programs require passing a test or interview. However, it lacks the nuance and conditional nature of the reference answer (بعض البرامج تتطلب - some programs require), making it overly general and less precise. The answer is relevant to the instruction but misses important qualifiers."
+    },
+    {
+        "id": 13,
+        "instruction": "هل تقدم الأكاديمية برامج للمبتدئين؟",
+        "reference_answer": "نعم، توفر برامج مخصصة للمبتدئين في المجالات التقنية.",
+        "model_answer": "نعم، تقدم الأكاديمية برامج تدريبية للمبتدئين في مجالات متعددة.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately confirms that the academy offers programs for beginners, matches the reference answer's core meaning, and provides additional relevant detail about training programs in multiple fields, making it complete and highly relevant to the instruction."
+    },
+    {
+        "id": 14,
+        "instruction": "هل تقدم أكاديمية طويق برامج متقدمة؟",
+        "reference_answer": "نعم، تقدم برامج متقدمة للأشخاص ذوي الخبرة.",
+        "model_answer": "نعم، تقدم أكاديمية طويق برامج متقدمة في مجالات تقنية.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately confirms that Tuwiq Academy offers advanced programs, matching the reference answer's core affirmation. It adds specificity by mentioning 'in technical fields,' which enhances completeness without contradicting the reference. The response is fully relevant to the instruction, concise, and correctly identifies the academy."
+    },
+    {
+        "id": 15,
+        "instruction": "كيف أعرف البرامج المتاحة حاليًا؟",
+        "reference_answer": "يمكنك زيارة الموقع الرسمي لأكاديمية طويق للاطلاع على البرامج المتاحة.",
+        "model_answer": "يمكنك زيارة موقع أكاديمية طويق للاطلاع على البرامج المتاحة، حيث يتم توثيقها بشكل دوري.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly identifying the method to find available programs by visiting the Tuwaiq Academy website. It adds a minor detail about periodic documentation, which is not in the Reference Answer but does not detract from correctness. It is slightly less concise than the Reference Answer, but still complete and appropriate."
+    },
+    {
+        "id": 16,
+        "instruction": "هل البرامج معتمدة؟",
+        "reference_answer": "نعم، برامج أكاديمية طويق معتمدة وتمنح شهادات بعد إكمالها.",
+        "model_answer": "نعم، تتمتع أكاديمية طويق بالاعتراف والاعتماد من جهات أكاديمية متعددة.",
+        "judge_score": 4,
+        "judge_rationale": "The model answer correctly confirms accreditation (accuracy) and is relevant to the instruction, but it lacks the completeness of the reference answer regarding certification upon completion."
+    },
+    {
+        "id": 17,
+        "instruction": "هل يمكنني التقديم على أكثر من برنامج؟",
+        "reference_answer": "نعم، يمكنك التقديم على أكثر من برنامج حسب الشروط.",
+        "model_answer": "نعم، يمكنك التقديم على أكثر من برنامج وفقًا لمواصفات البرامج.",
+        "judge_score": 5,
+        "judge_rationale": "The Model Answer accurately conveys the same meaning as the Reference Answer, confirming that multiple program applications are possible. It maintains completeness by addressing the core question and remains highly relevant to the User Instruction. The slight variation in phrasing ('وفقًا لمواصفات البرامج' vs. 'حسب الشروط') does not alter the essential correctness or intent."
+    },
+    {
+        "id": 18,
+        "instruction": "هل هناك رسوم للتسجيل؟",
+        "reference_answer": "عادةً لا توجد رسوم، حيث تقدم معظم البرامج مجانًا.",
+        "model_answer": "يتم إعلان رسوم التسجيل في الوقت المناسب.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially relevant but inaccurate and incomplete compared to the reference. While it addresses registration fees, it states they are announced in due time, contradicting the reference that typically there are no fees as most programs are free. This makes it misleading and less helpful."
+    },
+    {
+        "id": 19,
+        "instruction": "هل تقدم الأكاديمية فرص تدريب عملي؟",
+        "reference_answer": "نعم، بعض البرامج تتضمن تدريبًا عمليًا ومشاريع تطبيقية.",
+        "model_answer": "نعم، تقدم الأكاديمية فرص تدريب عملي لطلابها.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly affirming that the academy offers practical training opportunities. It is slightly less complete than the Reference Answer, which specifies that 'some programs' include practical training and applied projects, while the Model Answer makes a more general statement without these qualifiers."
+    },
+    {
+        "id": 20,
+        "instruction": "هل يوجد دعم للطلاب خلال البرنامج؟",
+        "reference_answer": "نعم، توفر الأكاديمية دعمًا وإشرافًا خلال فترة البرنامج.",
+        "model_answer": "نعم، توفر الأكاديمية الدعم النفسي والمهني لطلابها.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly confirming the existence of student support and specifying the academy as the provider. It adds detail by mentioning psychological and professional support, which is more specific than the Reference Answer's general 'support and supervision.' However, it does not explicitly mention supervision, making it slightly less complete than the Reference Answer."
+    },
+    {
+        "id": 21,
+        "instruction": "ما اللغة المستخدمة في البرامج؟",
+        "reference_answer": "تستخدم اللغة العربية والإنجليزية حسب طبيعة البرنامج.",
+        "model_answer": "اللغة الإنجليزية هي اللغة الرئيسية المستخدمة في البرامج.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly identifies English as a language used in programs, which is partially accurate, but it fails to mention Arabic as specified in the reference answer, making it incomplete. It also lacks the nuance that language usage depends on the program's nature, reducing its relevance to the full instruction."
+    },
+    {
+        "id": 22,
+        "instruction": "هل يمكن للطلاب الجامعيين التسجيل؟",
+        "reference_answer": "نعم، يمكن للطلاب الجامعيين التسجيل في البرامج المناسبة.",
+        "model_answer": "نعم، يمكن للطلاب الجامعيين التقديم.",
+        "judge_score": 4,
+        "judge_rationale": "The model answer is accurate and relevant, correctly confirming that university students can register. However, it uses 'التقديم' (apply) instead of 'التسجيل' (register), which slightly reduces completeness compared to the reference answer's more precise terminology."
+    },
+    {
+        "id": 23,
+        "instruction": "هل يمكن للموظفين التسجيل؟",
+        "reference_answer": "نعم، يمكن للموظفين التسجيل حسب مواعيد البرامج.",
+        "model_answer": "نعم، يمكن التسجيل.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly confirming that registration is possible. However, it lacks completeness compared to the Reference Answer, which specifies that registration depends on program schedules. This omission reduces the thoroughness of the response."
+    },
+    {
+        "id": 24,
+        "instruction": "هل تقدم الأكاديمية برامج قصيرة؟",
+        "reference_answer": "نعم، توفر الأكاديمية برامج قصيرة وورش عمل.",
+        "model_answer": "نعم، تقدم الأكاديمية برامج قصيرة مدتها عدة أيام.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly confirming that the academy offers short programs. It adds specific detail about duration ('several days'), which is not in the Reference Answer but is plausible and enhances completeness. However, it omits the mention of workshops from the Reference Answer, slightly reducing completeness."
+    },
+    {
+        "id": 25,
+        "instruction": "هل يتم تقديم البرامج بشكل حضوري؟",
+        "reference_answer": "نعم، بعض البرامج تقدم بشكل حضوري في مقرات الأكاديمية.",
+        "model_answer": "يُقدَّم التعليم عن بُعد، مع إمكانية الحضور الفعّال.",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer is partially relevant but incomplete and inaccurate compared to the Reference Answer. It correctly mentions remote education but incorrectly implies in-person attendance is only a possibility, whereas the Reference Answer explicitly confirms some programs are offered in-person at academy locations. This misses the direct affirmative response to the user's question about in-person programs."
+    },
+    {
+        "id": 26,
+        "instruction": "هل يمكنني إعادة التقديم إذا لم أُقبل؟",
+        "reference_answer": "نعم، يمكنك التقديم مرة أخرى في برامج لاحقة.",
+        "model_answer": "نعم، يمكنك إعادة التقديم بعد سنة على آخر إقبال.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly confirming that reapplication is possible. However, it adds a specific condition ('after one year from the last acceptance') that is not present in the Reference Answer, which only states 'in later programs' without specifying a timeframe. This makes it slightly less complete compared to the Reference Answer, though not incorrect."
+    },
+    {
+        "id": 27,
+        "instruction": "هل يتم الإعلان عن النتائج عبر الموقع؟",
+        "reference_answer": "نعم، يتم الإعلان عن نتائج القبول عبر الموقع أو البريد الإلكتروني.",
+        "model_answer": "لا يتم الإعلان عن النتائج عبر الموقع.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely incorrect and contradicts the reference answer. The reference answer clearly states that results are announced via the website or email, while the model answer incorrectly denies this. This demonstrates a fundamental failure in accuracy and relevance to the instruction."
+    },
+    {
+        "id": 28,
+        "instruction": "هل توفر الأكاديمية بيئة تعليمية عملية؟",
+        "reference_answer": "نعم، تركز الأكاديمية على التعلم العملي والتطبيقي.",
+        "model_answer": "نعم، توفر الأكاديمية بيئة تعليمية عملية و实يكية.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly affirms that the academy provides a practical educational environment, matching the Reference Answer's core message. However, it contains a typographical error ('实يكية') that appears to be a mix of Arabic and non-Arabic characters, slightly reducing clarity. The answer is accurate, complete, and relevant, but the error prevents a perfect score."
+    },
+    {
+        "id": 29,
+        "instruction": "هل يوجد مشاريع ضمن البرامج؟",
+        "reference_answer": "نعم، تتضمن البرامج مشاريع تطبيقية لتعزيز المهارات.",
+        "model_answer": "نعم، تركز بعض البرامج على المشاريع العملية.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly confirming the existence of projects in programs and emphasizing practical projects. It is slightly less complete than the Reference Answer, which explicitly mentions skill enhancement, but still captures the core meaning effectively."
+    },
+    {
+        "id": 30,
+        "instruction": "هل يمكنني التواصل مع الأكاديمية؟",
+        "reference_answer": "نعم، يمكنك التواصل عبر الموقع الرسمي أو حسابات التواصل الاجتماعي.",
+        "model_answer": "نعم، يمكنك التواصل مع الأكاديمية عبر موقعها الرسمي أو التواصل الاجتماعي.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer is accurate, complete, and highly relevant to the user instruction. It correctly confirms that communication with the academy is possible and provides the same two contact methods (official website and social media) as the reference answer, with only minor wording variations that do not affect meaning."
+    },
+    {
+        "id": 31,
+        "instruction": "ما هي مجالات الدراسة في أكاديمية طويق؟",
+        "reference_answer": "تشمل مجالات مثل البرمجة، الذكاء الاصطناعي، تحليل البيانات، الأمن السيبراني وتقنيات الويب.",
+        "model_answer": "توفر أكاديمية طويق برامجًا دراسية في مجالات التقنية المتقدمة، مثل البرمجة، الذكاء الاصطناعي، وتطوير الألعاب، وتطبيقات الهاتف المحمول، وتقنيات الاتصالات، وغيرها.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is mostly accurate and relevant, correctly listing key areas like programming and artificial intelligence from the Reference Answer. However, it omits data analysis and cybersecurity while adding extra fields like game development, mobile applications, and communications technology, making it slightly incomplete compared to the Reference Answer."
+    },
+    {
+        "id": 32,
+        "instruction": "هل توفر الأكاديمية مسارات تعليمية مختلفة؟",
+        "reference_answer": "نعم، تقدم مسارات متنوعة تناسب مستويات واهتمامات مختلفة.",
+        "model_answer": "نعم، توفر الأكاديمية مسارات تعليمية متنوعة.",
+        "judge_score": 5,
+        "judge_rationale": "The Model Answer accurately and completely addresses the User Instruction by confirming that the academy provides diverse educational pathways, matching the Reference Answer in both meaning and key details. It is concise, relevant, and contains no errors or omissions."
+    },
+    {
+        "id": 33,
+        "instruction": "هل يمكن التعلم الذاتي عبر الأكاديمية؟",
+        "reference_answer": "توفر الأكاديمية محتوى يساعد على التعلم الذاتي بجانب البرامج المنظمة.",
+        "model_answer": "نعم، توفر الأكاديمية فرصًا لتعلم الذاتي.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly affirms that the academy provides opportunities for self-learning, which aligns with the Reference Answer's core message. However, it lacks the nuance about structured programs mentioned in the Reference Answer, making it slightly less complete."
+    },
+    {
+        "id": 34,
+        "instruction": "هل تحتاج لغة إنجليزية قوية؟",
+        "reference_answer": "يعتمد ذلك على البرنامج، وبعض البرامج تتطلب مستوى مناسب من الإنجليزية.",
+        "model_answer": "تعتمد المنظمة على الإنجليزية، لذا يُفضل الحفظ بالإنجليزية.",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer is partially relevant but inaccurate and incomplete. It incorrectly states that the organization depends on English, which is not supported by the Reference Answer. The Reference Answer specifies that English requirements depend on the program, not the organization, and only some programs require an appropriate level of English. The Model Answer also introduces an unrelated suggestion about memorization in English, which is not addressed in the Reference Answer."
+    },
+    {
+        "id": 35,
+        "instruction": "هل يوجد حد عمري للتقديم؟",
+        "reference_answer": "يختلف حسب البرنامج، وغالبًا يتم توضيحه في شروط القبول.",
+        "model_answer": "23 عاماً هي العمر الأعلى.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides a specific age limit (23 years) which is incorrect and misleading compared to the reference answer that correctly states it varies by program and is typically specified in admission conditions. The model answer shows some relevance to the question about age limits but fails in accuracy and completeness by giving an absolute, incorrect statement instead of the nuanced, conditional response required."
+    },
+    {
+        "id": 36,
+        "instruction": "هل يمكن التقديم لغير السعوديين؟",
+        "reference_answer": "يعتمد ذلك على البرنامج وسياساته المعلنة.",
+        "model_answer": "نعم، يمكن التقديم، لكن يتم وضع شروط خاصة.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer is partially accurate and relevant but incomplete. It correctly indicates that non-Saudis can apply (matching the Reference Answer's implication that it depends on the program), and mentions special conditions, which aligns with the Reference Answer's emphasis on program-specific policies. However, it lacks the crucial nuance that this depends entirely on the specific program's announced policies, making it less precise than the Reference Answer."
+    },
+    {
+        "id": 37,
+        "instruction": "هل توفر الأكاديمية مواد تعليمية؟",
+        "reference_answer": "نعم، يتم توفير مواد تعليمية وموارد للمتدربين.",
+        "model_answer": "نعم، توفر أكاديمية طويق مواد تعليمية.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer is accurate, complete, and highly relevant to the user instruction. It correctly confirms that educational materials are provided, matches the reference answer's affirmative response, and even adds specific context (mentioning 'Tuwaiq Academy') which enhances the answer without contradicting the reference. No flaws are present."
+    },
+    {
+        "id": 38,
+        "instruction": "هل يوجد تقييم خلال البرنامج؟",
+        "reference_answer": "نعم، يتم تقييم المتدربين عبر اختبارات ومشاريع.",
+        "model_answer": "نعم، يتم تقييم أداء المتدربين خلال البرنامج.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately and completely addresses the user's question about whether evaluation occurs during the program, confirming it does and specifying that it evaluates trainees' performance. It is highly relevant and matches the reference answer in meaning, though phrased slightly differently."
+    },
+    {
+        "id": 39,
+        "instruction": "هل يمكن الانسحاب من البرنامج؟",
+        "reference_answer": "نعم، يمكن الانسحاب وفق سياسات البرنامج.",
+        "model_answer": "نعم، يمكن للطالب الانسحاب من البرنامج.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly confirming that withdrawal is possible. It adds specificity by mentioning 'الطالب' (the student), which is appropriate but slightly more specific than the Reference Answer's general statement. It is complete in addressing the query, though it does not explicitly mention following program policies as the Reference Answer does."
+    },
+    {
+        "id": 40,
+        "instruction": "هل يتم التواصل عبر البريد الإلكتروني؟",
+        "reference_answer": "نعم، يتم التواصل غالبًا عبر البريد الإلكتروني.",
+        "model_answer": "نعم، يتم التواصل عبر البريد الإلكتروني.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately and completely matches the reference answer in meaning, confirming email communication without any omission or addition. It is fully relevant to the user's instruction."
+    },
+    {
+        "id": 41,
+        "instruction": "هل توفر الأكاديمية دعمًا تقنيًا؟",
+        "reference_answer": "نعم، يتم توفير دعم تقني خلال البرامج عند الحاجة.",
+        "model_answer": "نعم، توفر الأكاديمية دعمًا تقنيًا لطلابها.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly confirming technical support is provided. It is slightly less complete than the Reference Answer, which specifies support is provided during programs as needed, while the Model Answer states support is provided to students without those details. However, the core information is correct and well-expressed."
+    },
+    {
+        "id": 42,
+        "instruction": "هل هناك التزام بالحضور؟",
+        "reference_answer": "نعم، بعض البرامج تتطلب التزامًا بالحضور.",
+        "model_answer": "لم يتم ذكر ذلك في المصادر، ولكن قد يكون حضور المذاكر ضروري.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer acknowledges uncertainty ('لم يتم ذكر ذلك في المصادر') but speculates ('قد يكون حضور المذاكر ضروري'), which is partially relevant but lacks the specific, accurate information from the reference answer about some programs requiring attendance. It is incomplete and not fully accurate compared to the ground truth."
+    },
+    {
+        "id": 43,
+        "instruction": "هل يمكن إعادة الاختبار؟",
+        "reference_answer": "يعتمد ذلك على سياسة البرنامج.",
+        "model_answer": "نعم، يمكن إعادة الاختبار.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is incorrect and incomplete. While it directly addresses the question, it provides a definitive 'yes' without acknowledging the conditional nature of the reference answer ('depends on program policy'). This shows poor accuracy and fails to capture the nuance and completeness required."
+    },
+    {
+        "id": 44,
+        "instruction": "هل يوجد جدول زمني محدد؟",
+        "reference_answer": "نعم، يتم تحديد جدول زمني لكل برنامج.",
+        "model_answer": "لا يوجد جدول زمني محدد، بل يتم العمل في بيئة تفاعلية.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and irrelevant to the instruction. It states 'لا يوجد جدول زمني محدد' (no specific timeline exists), which directly contradicts the reference answer 'نعم، يتم تحديد جدول زمني لكل برنامج' (yes, a timeline is determined for each program). The model answer introduces unrelated information about an interactive environment instead of addressing the question about timelines."
+    },
+    {
+        "id": 45,
+        "instruction": "هل يمكن تغيير البرنامج بعد القبول؟",
+        "reference_answer": "غالبًا لا، إلا في حالات محددة حسب السياسة.",
+        "model_answer": "قد لا يُسمح بالتغيير إلا في بعض الحالات، وغالبًا يتم تقييم حالة الطالب.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly conveying that changes are generally not allowed except in specific cases, aligning closely with the Reference Answer's meaning. It adds minor detail about student case evaluation, which is reasonable but slightly expands beyond the Reference Answer's concise statement, making it slightly less precise but still highly correct."
+    },
+    {
+        "id": 46,
+        "instruction": "هل توفر الأكاديمية شهادات رقمية؟",
+        "reference_answer": "نعم، يتم إصدار شهادات رقمية بعد إتمام البرنامج.",
+        "model_answer": "نعم، توفر الأكاديمية شهادات رقمية.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately and completely matches the reference answer in meaning, confirming that the academy provides digital certificates. It is fully relevant to the user's question and contains no errors or omissions."
+    },
+    {
+        "id": 47,
+        "instruction": "هل البرامج مناسبة للمبتدئين تمامًا؟",
+        "reference_answer": "نعم، بعض البرامج مخصصة للمبتدئين تمامًا.",
+        "model_answer": "نعم، تُعد البرامج مناسبة للمبتدئين.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly affirming that programs are suitable for beginners, aligning with the Reference Answer's core message. However, it lacks the nuance of 'some programs' specified in the Reference Answer, making it slightly less precise and complete, though still highly correct."
+    },
+    {
+        "id": 48,
+        "instruction": "هل يوجد برامج متقدمة جدًا؟",
+        "reference_answer": "نعم، توجد برامج متقدمة للمحترفين.",
+        "model_answer": "نعم، يوجد برامج متقدمة للطلاب.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly acknowledges the existence of advanced programs (accuracy) and is relevant to the instruction, but it incorrectly specifies 'for students' instead of 'for professionals' as in the reference answer, making it incomplete and partially inaccurate."
+    },
+    {
+        "id": 49,
+        "instruction": "هل يتم استخدام مشاريع حقيقية؟",
+        "reference_answer": "نعم، غالبًا يتم العمل على مشاريع تطبيقية قريبة من الواقع.",
+        "model_answer": "نعم، يتم استخدام مشاريع حقيقية.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly confirms the use of real projects, matching the Reference Answer's core affirmation. However, it lacks the additional detail about 'applied projects close to reality' and the nuance of 'often' from the Reference Answer, making it slightly less complete."
+    },
+    {
+        "id": 50,
+        "instruction": "هل يمكن العمل بعد التخرج من البرامج؟",
+        "reference_answer": "تهدف البرامج لتأهيل المتدربين لسوق العمل.",
+        "model_answer": "نعم، تتيح أكاديمية طويق فرصاً للعمل بعد التخرج.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly affirming that work is possible after graduation and specifying 'Tuwaiq Academy' as the program provider, which aligns with the Reference Answer's focus on preparing trainees for the job market. However, it is slightly less complete than the Reference Answer, as it does not explicitly mention the broader goal of preparing trainees for the job market, though this is implied."
+    },
+    {
+        "id": 51,
+        "instruction": "هل يوجد إرشاد من مدربين؟",
+        "reference_answer": "نعم، يوجد مدربون ومشرفون خلال البرامج.",
+        "model_answer": "نعم، يتم إشراف الطلاب من قبل مدربين خبراء في مجالاتهم.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately confirms the presence of trainers, matches the reference answer's affirmative response, and provides additional relevant detail about their expertise and role in supervising students, making it complete and highly relevant to the instruction."
+    },
+    {
+        "id": 52,
+        "instruction": "هل يمكن التواصل مع المدربين؟",
+        "reference_answer": "نعم، يتم توفير قنوات للتواصل مع المدربين.",
+        "model_answer": "نعم، يمكن التواصل مع المدربين عن طريق البريد الإلكتروني أو عبر الرسائل.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer is fully accurate, complete, and relevant. It correctly confirms that communication with trainers is possible (matching the reference answer) and provides specific, helpful details about communication methods (email and messages), which enhances completeness beyond the reference while remaining entirely relevant to the instruction."
+    },
+    {
+        "id": 53,
+        "instruction": "هل يتم تحديث البرامج باستمرار؟",
+        "reference_answer": "نعم، يتم تحديث البرامج لتواكب التطور التقني.",
+        "model_answer": "نعم، يتم تحديث البرامج بشكل دوري.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly affirming that software is updated. It is slightly less complete than the Reference Answer, which specifies updates are for keeping pace with technical development, while the Model Answer only states updates are periodic. However, it remains largely correct and clear."
+    },
+    {
+        "id": 54,
+        "instruction": "هل توفر الأكاديمية ورش عمل؟",
+        "reference_answer": "نعم، تقدم ورش عمل قصيرة.",
+        "model_answer": "نعم، ترعى الأكاديمية ورش عمل وندوات في مجالات متنوعة.",
+        "judge_score": 4,
+        "judge_rationale": "The model answer is accurate and relevant, confirming that workshops are provided, but it adds extra information about seminars and diverse fields not mentioned in the reference answer, making it slightly less concise."
+    },
+    {
+        "id": 55,
+        "instruction": "هل يمكن حضور الفعاليات؟",
+        "reference_answer": "نعم، تنظم الأكاديمية فعاليات تقنية.",
+        "model_answer": "نعم، يُعلن عن الفعاليات في وقتها، ويمكن حضورها بالتزامن مع البرنامج.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly confirms that events can be attended (relevance) and is accurate in stating this. However, it adds extra details about announcement timing and program concurrency not present in the Reference Answer, making it slightly less concise but still complete and correct overall."
+    },
+    {
+        "id": 56,
+        "instruction": "هل هناك مجتمع للمتدربين؟",
+        "reference_answer": "نعم، يوجد مجتمع للتواصل بين المتدربين.",
+        "model_answer": "نعم، يتم إنشاء مجتمع للتدريب من خلال منصة \"Codecademy\" لتبادل الأفكار والمساعدة.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly confirming the existence of a trainee community and providing specific details (Codecademy platform, idea exchange, assistance) that align with the Reference Answer's general statement. It loses one point for being slightly less complete, as it specifies a particular platform rather than a general community, which might not cover all contexts implied by the Instruction."
+    },
+    {
+        "id": 57,
+        "instruction": "هل يمكن الاستفادة بعد انتهاء البرنامج؟",
+        "reference_answer": "نعم، تبقى المهارات المكتسبة مفيدة.",
+        "model_answer": "نعم، يمكن الاستفادة بعد انتهاء البرنامج.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately and completely addresses the user's question by confirming that benefits can be gained after the program ends, matching the reference answer's meaning precisely. It is fully relevant and correct."
+    },
+    {
+        "id": 58,
+        "instruction": "هل يتم إعطاء واجبات؟",
+        "reference_answer": "نعم، قد يتم إعطاء واجبات ومهام.",
+        "model_answer": "نعم، يتم إعطاء واجبات.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately and completely addresses the user's question about whether assignments are given, matching the reference answer in meaning and relevance. It is concise and directly responsive."
+    },
+    {
+        "id": 59,
+        "instruction": "هل يوجد تقييم نهائي؟",
+        "reference_answer": "نعم، غالبًا يوجد تقييم نهائي.",
+        "model_answer": "نعم، تقييم نهائي للطلاب.",
+        "judge_score": 4,
+        "judge_rationale": "The model answer correctly affirms the existence of a final evaluation ('نعم') and specifies it is for students, which is relevant and accurate. However, it lacks the nuance of 'غالبًا' (often/usually) from the reference answer, making it slightly less precise in completeness."
+    },
+    {
+        "id": 60,
+        "instruction": "هل يمكن التعلم بدوام جزئي؟",
+        "reference_answer": "بعض البرامج تكون مرنة وتناسب ذلك.",
+        "model_answer": "نعم، يمكن التعلم بالدراسة الجزئية.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly affirms that part-time learning is possible ('نعم، يمكن التعلم بالدراسة الجزئية'), which aligns with the Reference Answer's implication that some programs are flexible enough for this. However, the Model Answer lacks the nuance of the Reference Answer, which specifies that only 'some programs' (بعض البرامج) are suitable, making it slightly less precise and complete."
+    },
+    {
+        "id": 61,
+        "instruction": "هل يوجد دعم بعد التخرج؟",
+        "reference_answer": "قد يتم توفير فرص متابعة أو إرشاد.",
+        "model_answer": "نعم، توفر أكاديمية طويق دعمًا بعد التخرج للمساهمة في مسارات مهنية.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly confirming the existence of post-graduation support and specifying the provider (Tuwiq Academy). It adds useful detail about career pathways, which aligns with the Reference Answer's mention of follow-up opportunities or guidance. However, it slightly lacks the nuance of 'may be provided' from the Reference Answer, implying certainty where the Reference suggests possibility."
+    },
+    {
+        "id": 62,
+        "instruction": "هل الأكاديمية معروفة؟",
+        "reference_answer": "نعم، تعد من الجهات البارزة في التعليم التقني.",
+        "model_answer": "نعم، تعتبر أكاديمية طويق معروفة في مجال البرمجة في المنطقة.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly confirming that the academy is known and specifying its field (programming) and region, which aligns with the Reference Answer's emphasis on technical education prominence. However, it lacks the explicit mention of being a prominent entity in technical education as stated in the Reference Answer, slightly reducing completeness."
+    },
+    {
+        "id": 63,
+        "instruction": "هل يمكن متابعة الحسابات لمعرفة الجديد؟",
+        "reference_answer": "نعم، يتم نشر التحديثات عبر الحسابات الرسمية.",
+        "model_answer": "نعم، يمكن متابعة حساباتهم على التواصل الاجتماعي لمعرفة الجديد.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately and completely addresses the user's question about following accounts for updates, matching the reference answer's core meaning while providing slightly more specific detail (mentioning social media accounts). It is fully relevant and correct."
+    },
+    {
+        "id": 64,
+        "instruction": "هل يمكن استخدام الجوال للتسجيل؟",
+        "reference_answer": "نعم، يمكن التسجيل عبر الأجهزة المختلفة.",
+        "model_answer": "قد تتوفر بعض البرامج عبر الهواتف الذكية، لكن إتمام عملية التسجيل يُفضل إكمالها عبر الموقع الإلكتروني.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer is partially accurate and relevant but incomplete. It correctly acknowledges mobile use for some aspects (\"some programs via smartphones\") and mentions website preference, but fails to confirm general mobile registration capability as the reference answer does. It's overly cautious and misses the direct affirmative response required."
+    },
+    {
+        "id": 65,
+        "instruction": "هل هناك متطلبات تقنية؟",
+        "reference_answer": "قد تحتاج جهاز مناسب واتصال بالإنترنت.",
+        "model_answer": "نعم، يتم تقديم برامج تدريبية تقنية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer acknowledges the technical aspect but fails to address the specific technical requirements mentioned in the reference answer (suitable device and internet connection). It instead mentions technical training programs, which is partially relevant but incomplete and not directly responsive to the question about requirements."
+    },
+    {
+        "id": 66,
+        "instruction": "هل يوجد تأخير في النتائج؟",
+        "reference_answer": "يتم إعلان النتائج في الوقت المحدد غالبًا.",
+        "model_answer": "عادةً لا يُحدث تأخير في النتائج.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, stating that results are usually not delayed, which aligns closely with the Reference Answer's meaning that results are typically announced on time. It is complete in addressing the question. The slight deduction is due to the Reference Answer's nuance of 'often' versus the Model Answer's 'usually,' but both convey similar reliability."
+    },
+    {
+        "id": 67,
+        "instruction": "هل يمكن تعديل البيانات بعد التسجيل؟",
+        "reference_answer": "يعتمد على النظام والسياسة.",
+        "model_answer": "نعم، يمكن تعديل البيانات بعد التسجيل.",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer provides a definitive 'yes' without qualification, while the Reference Answer correctly indicates that the ability to modify data after registration depends on the specific system and policies involved. The Model Answer is therefore inaccurate and incomplete, failing to capture the conditional nature of the response."
+    },
+    {
+        "id": 68,
+        "instruction": "هل يتم إرسال تذكيرات؟",
+        "reference_answer": "نعم، يتم إرسال تنبيهات وتذكيرات.",
+        "model_answer": "نعم، يتم إرسال تذكيرات.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly confirming that reminders are sent. However, it is slightly less complete than the Reference Answer, which also mentions alerts ('تنبيهات'). The Model Answer captures the core information but omits this additional detail."
+    },
+    {
+        "id": 69,
+        "instruction": "هل يوجد اختبار تحديد مستوى؟",
+        "reference_answer": "بعض البرامج تحتوي على اختبار مستوى.",
+        "model_answer": "نعم، يتم إجراء اختبار تحديد مستوى.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, confirming the existence of placement tests as implied by the Reference Answer. However, it is slightly less complete than the Reference Answer, which specifies that only some programs include such tests, whereas the Model Answer presents it as a general statement without this nuance."
+    },
+    {
+        "id": 70,
+        "instruction": "هل يمكن اختيار أكثر من مسار؟",
+        "reference_answer": "يمكن حسب الشروط المتاحة.",
+        "model_answer": "نعم، يمكن اختيار أكثر من مسار.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, directly addressing the user's question by confirming that multiple paths can be chosen. However, it lacks the nuance of the Reference Answer, which specifies that this depends on available conditions, making it slightly less complete."
+    },
+    {
+        "id": 71,
+        "instruction": "هل البرامج نظرية فقط؟",
+        "reference_answer": "لا، تركز على التطبيق العملي.",
+        "model_answer": "لا، تتضمن ممارسة المهارات العملية.",
+        "judge_score": 5,
+        "judge_rationale": "The Model Answer accurately conveys that programs are not theoretical only, matching the Reference Answer's core message. It is complete in specifying practical skill practice, relevant to the instruction, and effectively paraphrases the Reference Answer without losing meaning."
+    },
+    {
+        "id": 72,
+        "instruction": "هل يتم العمل ضمن فرق؟",
+        "reference_answer": "نعم، بعض المشاريع تكون جماعية.",
+        "model_answer": "نعم، يتم العمل ضمن فرق محددة.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately confirms that work is done in teams, matches the reference answer's affirmative response, and adds specificity by mentioning 'specific teams,' which is consistent with and slightly more detailed than the reference without contradicting it. It is fully relevant, complete, and correct."
+    },
+    {
+        "id": 73,
+        "instruction": "هل يوجد شهادات مشاركة؟",
+        "reference_answer": "نعم، قد يتم تقديم شهادات مشاركة.",
+        "model_answer": "نعم، قد يتوفر شهادات مشاركة للمشاركين.",
+        "judge_score": 5,
+        "judge_rationale": "The Model Answer accurately and completely addresses the User Instruction by confirming the availability of participation certificates, matching the Reference Answer in meaning and relevance. It uses slightly different phrasing ('قد يتوفر' vs. 'قد يتم تقديم') but maintains the same intent and correctness."
+    },
+    {
+        "id": 74,
+        "instruction": "هل يتم توثيق الشهادات؟",
+        "reference_answer": "نعم، الشهادات تكون موثقة.",
+        "model_answer": "نعم، يتم توثيق الشهادات.",
+        "judge_score": 5,
+        "judge_rationale": "The Model Answer is fully accurate, complete, and relevant, matching the Reference Answer in meaning and confirming that certificates are documented."
+    },
+    {
+        "id": 75,
+        "instruction": "هل يمكن استخدام الشهادة في السيرة الذاتية؟",
+        "reference_answer": "نعم، يمكن إضافتها للسيرة الذاتية.",
+        "model_answer": "نعم، يمكن استخدام الشهادة في السيرة الذاتية.",
+        "judge_score": 5,
+        "judge_rationale": "The Model Answer is fully accurate, complete, and relevant, matching the Reference Answer exactly in meaning and confirming that certificates can be used in a CV, with no errors or omissions."
+    },
+    {
+        "id": 76,
+        "instruction": "هل الأكاديمية مناسبة للمبتدئين في البرمجة؟",
+        "reference_answer": "نعم، توفر برامج للمبتدئين.",
+        "model_answer": "نعم، تتوفر في الأكاديمية برامج تدريبية للمبتدئين في البرمجة.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately confirms that the academy is suitable for beginners in programming, matching the reference answer's affirmative response. It is complete by specifying that training programs are available for beginners, adding relevant detail without deviating from the core message. The answer is highly relevant to the instruction, directly addressing the question about suitability for beginners."
+    },
+    {
+        "id": 77,
+        "instruction": "هل يمكن التعلم من الصفر؟",
+        "reference_answer": "نعم، يمكن البدء من الصفر.",
+        "model_answer": "نعم، يمكن التعلم من الصفر.",
+        "judge_score": 5,
+        "judge_rationale": "The Model Answer is identical to the Reference Answer in meaning and intent, accurately affirming that learning from scratch is possible. It directly addresses the User Instruction with perfect accuracy, completeness, and relevance."
+    },
+    {
+        "id": 78,
+        "instruction": "هل يوجد برامج قصيرة جدًا؟",
+        "reference_answer": "نعم، توجد برامج قصيرة وورش.",
+        "model_answer": "نعم، توجد برامج قصيرة.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly affirming the existence of short programs as asked in the Instruction. It matches the Reference Answer's core information but omits the mention of workshops ('ورش'), making it slightly less complete. This minor omission reduces the score from excellent to very good."
+    },
+    {
+        "id": 79,
+        "instruction": "هل يمكن التسجيل في أي وقت؟",
+        "reference_answer": "يكون التسجيل حسب مواعيد محددة.",
+        "model_answer": "نعم، يمكن التسجيل في أي وقت.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely incorrect and contradicts the reference answer. The reference answer clearly states that registration is according to specific times ('مواعيد محددة'), while the model answer incorrectly claims registration can be done at any time ('في أي وقت'). This represents a fundamental factual error with no redeeming qualities in accuracy, completeness, or relevance."
+    },
+    {
+        "id": 80,
+        "instruction": "هل يتم الإعلان عن البرامج الجديدة؟",
+        "reference_answer": "نعم، عبر الموقع والحسابات.",
+        "model_answer": "نعم، يتم الإعلان عن البرامج الجديدة عبر الموقع الرسمي.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly confirming that new programs are announced and specifying the official website as a channel. However, it is slightly incomplete compared to the Reference Answer, which mentions both the website and accounts (likely social media or other platforms), making the Model Answer less comprehensive but still highly correct."
+    },
+    {
+        "id": 81,
+        "instruction": "هل يمكن التواصل عبر وسائل التواصل؟",
+        "reference_answer": "نعم، تتوفر قنوات تواصل متعددة.",
+        "model_answer": "نعم، يتم التواصل عبر وسائل التواصل الاجتماعي.",
+        "judge_score": 4,
+        "judge_rationale": "The model answer is accurate and relevant, correctly affirming that communication is possible via social media, which aligns with the reference answer's confirmation of multiple communication channels. However, it is slightly less complete than the reference, as it specifies social media rather than the broader 'multiple channels' mentioned in the reference, though this does not significantly detract from the overall correctness."
+    },
+    {
+        "id": 82,
+        "instruction": "هل يتم تقديم محتوى باللغة العربية؟",
+        "reference_answer": "نعم، يوجد محتوى عربي.",
+        "model_answer": "نعم، يتم تقديم محتوى باللغة العربية في بعض الدورات والبرامج.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately confirms that Arabic content is provided, matching the reference answer's core affirmation. It adds useful specificity by mentioning 'some courses and programs,' which enhances completeness without contradicting the reference. The response is fully relevant to the instruction, clear, and appropriately detailed."
+    },
+    {
+        "id": 83,
+        "instruction": "هل يتم تقديم محتوى باللغة الإنجليزية؟",
+        "reference_answer": "نعم، يوجد محتوى إنجليزي.",
+        "model_answer": "نعم، يتم تقديم بعض المحتوى باللغة الإنجليزية.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately and completely addresses the user's question about whether English content is provided, matching the reference answer in meaning while using slightly different phrasing ('يتم تقديم بعض المحتوى باللغة الإنجليزية' vs. 'يوجد محتوى إنجليزي'). Both confirm the presence of English content, making the response fully relevant and correct."
+    },
+    {
+        "id": 84,
+        "instruction": "هل يمكن التعلم بدون خلفية تقنية؟",
+        "reference_answer": "نعم، بعض البرامج لا تتطلب خلفية.",
+        "model_answer": "نعم، يمكن التعلم بدون خلفية تقنية، حيث توفر برامج التدريب المعادلة والمهارات الأساسية.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly affirms that learning without technical background is possible, aligning with the Reference Answer's core message. It provides additional context about training programs offering foundational skills, which enhances completeness. However, it slightly deviates by not explicitly mentioning that 'some programs don't require background' as specified in the Reference Answer, making it less precise."
+    },
+    {
+        "id": 85,
+        "instruction": "هل يوجد دعم للمشاريع؟",
+        "reference_answer": "نعم، يتم دعم المشاريع خلال البرنامج.",
+        "model_answer": "نعم، يوجد دعم للمشاريع.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately and completely matches the reference answer in meaning, confirming the existence of project support. It is fully relevant to the user instruction, with no errors or omissions."
+    },
+    {
+        "id": 86,
+        "instruction": "هل يوجد تقييم مستمر؟",
+        "reference_answer": "نعم، يتم تقييم الأداء بشكل مستمر.",
+        "model_answer": "نعم، يتم تقييم أداء الطلاب بشكل دوري.",
+        "judge_score": 4,
+        "judge_rationale": "The model answer is mostly accurate and relevant, correctly affirming continuous evaluation as asked. However, it specifies 'students' (الطلاب) while the reference answer uses a more general 'performance' (الأداء), making it slightly less complete but still appropriate in context."
+    },
+    {
+        "id": 87,
+        "instruction": "هل يمكن تحسين المهارات؟",
+        "reference_answer": "نعم، الهدف هو تطوير المهارات.",
+        "model_answer": "نعم، يوجد برامج تدريبية متقدمة.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly affirms the possibility of improving skills (accuracy) and provides a relevant example of advanced training programs (relevance), but it lacks the explicit mention of the goal to develop skills as stated in the Reference Answer, making it slightly less complete."
+    },
+    {
+        "id": 88,
+        "instruction": "هل يتم استخدام أدوات حديثة؟",
+        "reference_answer": "نعم، يتم استخدام أدوات وتقنيات حديثة.",
+        "model_answer": "نعم، يتم استخدام أدوات حديثة.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately and completely matches the reference answer in meaning, confirming the use of modern tools. It is fully relevant to the user's instruction, with no errors or omissions."
+    },
+    {
+        "id": 89,
+        "instruction": "هل الأكاديمية مناسبة لسوق العمل؟",
+        "reference_answer": "نعم، تركز على مهارات مطلوبة.",
+        "model_answer": "نعم، يُعد البرامج التي تقدمها أكاديمية طويق شاملة وتُعد جاهزة للعمل في سوق العمل.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly affirms that the academy is suitable for the job market, aligning with the Reference Answer's core message. It provides additional detail about comprehensive programs and job readiness, which enhances completeness. However, it does not explicitly mention the focus on required skills as in the Reference Answer, slightly reducing precision."
+    },
+    {
+        "id": 90,
+        "instruction": "هل يوجد تعاون مع جهات أخرى؟",
+        "reference_answer": "نعم، قد يكون هناك تعاون وشراكات.",
+        "model_answer": "نعم، يتم التعاون مع أكاديمية طويق.",
+        "judge_score": 4,
+        "judge_rationale": "The model answer is accurate and relevant, confirming collaboration as requested, and provides a specific example (Tuwaiq Academy) which adds detail beyond the reference. However, it lacks the nuance of 'may be' from the reference, making it slightly less complete in acknowledging uncertainty."
+    },
+    {
+        "id": 91,
+        "instruction": "هل يمكن التعرف على زملاء جدد؟",
+        "reference_answer": "نعم، توفر بيئة تواصل.",
+        "model_answer": "نعم، يمكن التعرف على زملاء جدد.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately and completely addresses the user instruction by confirming that it is possible to meet new colleagues, matching the reference answer's affirmative response. It is relevant and concise, with no errors or omissions."
+    },
+    {
+        "id": 92,
+        "instruction": "هل يتم العمل على تحديات؟",
+        "reference_answer": "نعم، قد يتم استخدام تحديات تعليمية.",
+        "model_answer": "نعم، يتم عمل تحديات ومسابقات.",
+        "judge_score": 4,
+        "judge_rationale": "The model answer is accurate and relevant, correctly affirming that challenges are being worked on, matching the reference answer's core meaning. It adds specificity by mentioning 'competitions' (مسابقات), which is a reasonable extension but slightly expands beyond the reference's focus on 'educational challenges' (تحديات تعليمية). This minor addition does not detract from accuracy but slightly reduces completeness alignment with the reference."
+    },
+    {
+        "id": 93,
+        "instruction": "هل يوجد مسارات مختلفة؟",
+        "reference_answer": "نعم، توجد مسارات متعددة.",
+        "model_answer": "نعم، توجد مسارات مختلفة.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer is identical to the reference answer in meaning and content, accurately confirming the existence of different paths, fully addressing the instruction, and demonstrating perfect relevance and completeness."
+    },
+    {
+        "id": 94,
+        "instruction": "هل يتم تقديم محتوى محدث؟",
+        "reference_answer": "نعم، يتم تحديث المحتوى.",
+        "model_answer": "نعم، يتم تحديث المحتوى بانتظام.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately confirms that content is updated, matching the reference answer's core meaning. It adds 'regularly' which provides additional useful information without contradicting or deviating from the reference, making it more complete while remaining fully relevant to the instruction."
+    },
+    {
+        "id": 95,
+        "instruction": "هل يمكن متابعة التقدم؟",
+        "reference_answer": "نعم، يتم متابعة تقدم المتدرب.",
+        "model_answer": "قد يتم التواصل للاستفسار.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially relevant but incomplete and inaccurate compared to the reference. While it mentions communication for inquiry, which could relate to progress monitoring, it fails to directly confirm that progress is being followed as specified in both the instruction and reference answer. The reference clearly states 'نعم، يتم متابعة تقدم المتدرب' (Yes, the trainee's progress is being followed), whereas the model answer only suggests potential communication without confirming the actual monitoring."
+    },
+    {
+        "id": 96,
+        "instruction": "هل يوجد منصة تعليمية؟",
+        "reference_answer": "نعم، يتم استخدام منصات للتعلم.",
+        "model_answer": "نعم،هناك منصة تعليمية للمواد.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly affirming the existence of an educational platform as per the Instruction and Reference Answer. It adds specificity by mentioning 'for materials,' which is a minor elaboration but does not contradict the Reference Answer. However, it slightly deviates from the Reference Answer's more general statement, making it slightly less complete in matching the exact phrasing, though the core meaning is preserved."
+    },
+    {
+        "id": 97,
+        "instruction": "هل يمكن الحصول على خبرة عملية؟",
+        "reference_answer": "نعم، من خلال المشاريع.",
+        "model_answer": "نعم، يمكن الحصول على خبرة عملية من خلال المشاريع العملية.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately and completely addresses the user's question by confirming that practical experience can be obtained, specifically through practical projects, matching the reference answer precisely in both meaning and key details."
+    },
+    {
+        "id": 98,
+        "instruction": "هل يوجد اختبارات قصيرة؟",
+        "reference_answer": "نعم، قد تكون هناك اختبارات قصيرة.",
+        "model_answer": "نعم، يوجد اختبارات قصيرة.",
+        "judge_score": 5,
+        "judge_rationale": "The Model Answer is accurate, complete, and highly relevant to the User Instruction. It correctly confirms the existence of short tests in Arabic, matching the Reference Answer in meaning and intent, with no errors or omissions."
+    },
+    {
+        "id": 99,
+        "instruction": "هل يمكن التعلم بشكل تفاعلي؟",
+        "reference_answer": "نعم، التعلم تفاعلي.",
+        "model_answer": "نعم، توفر الجامعة بيئة تفاعلية وتدريبات عملية.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly affirms interactive learning (relevance) and provides a specific example (completeness), but it unnecessarily narrows the scope to universities when the Instruction is general about learning. The Reference Answer is more concise and directly addresses the question without extra assumptions."
+    },
+    {
+        "id": 100,
+        "instruction": "هل يوجد دعم فني مباشر؟",
+        "reference_answer": "نعم، يتوفر دعم فني عند الحاجة.",
+        "model_answer": "لا توجد معلومات مباشرة عن دعم فني مباشر.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer incorrectly states there is no direct information about technical support, contradicting the reference answer which confirms availability. It fails to accurately reflect the information provided in the reference, though it remains somewhat relevant to the instruction's topic."
+    },
+    {
+        "id": 101,
+        "instruction": "ما هي أكاديمية طويق؟",
+        "reference_answer": "أكاديمية طويق هي مؤسسة تعليمية تقنية متقدمة تقع في الرياض، تُعنى بتقديم برامج تعليمية متنوعة في مجالات التقنيات الحديثة لتمكين الكوادر الوطنية.",
+        "model_answer": "أكاديمية طويق هي أكاديمية رياضية سعودية تأسست في 2020، تهدف إلى تطوير الرياضة والأنشطة الرياضية في المملكة العربية السعودية.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely incorrect and irrelevant to the user's question. The reference answer clearly states that Tuwaiq Academy is an advanced technical educational institution in Riyadh focused on modern technology programs, while the model answer incorrectly describes it as a sports academy founded in 2020. There are no correct elements in the model's response."
+    },
+    {
+        "id": 102,
+        "instruction": "متى تأسست أكاديمية طويق؟",
+        "reference_answer": "تم الإعلان عن تأسيس أكاديمية طويق في أغسطس 2019م.",
+        "model_answer": "2008.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer '2008' is completely incorrect compared to the reference answer which states the academy was announced in August 2019. The answer shows no accuracy, completeness, or relevance to the user's question about the founding date of Tuwaiq Academy."
+    },
+    {
+        "id": 103,
+        "instruction": "من أسس أكاديمية طويق؟",
+        "reference_answer": "أسس أكاديمية طويق الاتحاد السعودي للأمن السيبراني والبرمجة والدرونز.",
+        "model_answer": "تأسست أكاديمية طويق في عام 2013م.",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer provides a correct founding year (2013) but fails to identify the founder as specified in the Reference Answer (الاتحاد السعودي للأمن السيبراني والبرمجة والدرونز). It is partially relevant but incomplete, lacking the key information requested in the instruction."
+    },
+    {
+        "id": 104,
+        "instruction": "لماذا سميت الأكاديمية باسم \"طويق\"؟",
+        "reference_answer": "سُميت أكاديمية طويق تيمُّنًا بجبل طويق التاريخي، وهو أحد معالم منطقة الرياض البارزة.",
+        "model_answer": "تم تسميتها باسم \"طويق\" نسبة إلى طويق، وهي منطقة تقع في الرياض، عاصمة المملكة العربية السعودية، التي تركز على التكنولوجيا والرقمي.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies that the name 'طويق' refers to a location in Riyadh, Saudi Arabia, which aligns with the Reference Answer's mention of a historical landmark in the Riyadh region. However, it incorrectly describes طويق as a 'منطقة' (area/region) focusing on technology and digital aspects, whereas the Reference Answer specifies it as a 'جبل' (mountain/historical hill). This inaccuracy reduces the score, as the core geographical reference is correct but the specific nature of the landmark is mischaracterized."
+    },
+    {
+        "id": 105,
+        "instruction": "أين يقع مقر أكاديمية طويق؟",
+        "reference_answer": "يقع مقر الأكاديمية في منطقة مشروع الملك فهد بجامعة الأميرة نورة بالرياض.",
+        "model_answer": "يقع مقر أكاديمية طويق في الرياض، المملكة العربية السعودية.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly identifies the city (Riyadh) and country (Saudi Arabia), which is relevant and accurate. However, it lacks the specific location details provided in the reference answer (King Fahd Project area at Princess Nourah University in Riyadh), making it incomplete. The answer is not wrong but insufficiently precise."
+    },
+    {
+        "id": 106,
+        "instruction": "من هو المدير التنفيذي لأكاديمية طويق؟",
+        "reference_answer": "المدير التنفيذي الحالي لأكاديمية طويق هو عبد العزيز أحمد الحمادي.",
+        "model_answer": "تأسست أكاديمية طويق في عام 2014، وتمت إدارتها في الأصل من قبل د. محمد السالم، لكن لم يتم الإعلان عن إعادة تعيين للمدير التنفيذي بعد إقالته.",
+        "judge_score": 1,
+        "judge_rationale": "The Model Answer is completely wrong and irrelevant to the User Instruction. It provides historical information about the academy's founding and past management, but fails to identify the current executive director as specified in the Reference Answer (Abdulaziz Ahmed Al-Hammadi). The answer is inaccurate and lacks the requested information."
+    },
+    {
+        "id": 107,
+        "instruction": "ما هي أهداف أكاديمية طويق؟",
+        "reference_answer": "تهدف أكاديمية طويق إلى سد فجوة المهارات التقنية في سوق العمل وبناء قدرات وطنية متميزة في المجالات التكنولوجية الحديثة.",
+        "model_answer": "تعكس طويق أهدافها الثلاثة، وهي: تلبية احتياجات سوق العمل، وتعزيز مهارات البرمجة، وتقديم فرص تطوير مهارات.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly identifies some relevant aspects, such as addressing market needs and skill development, which align with the reference answer's focus on bridging skill gaps and building national capabilities. However, it lacks the specificity and completeness of the reference answer, omitting key details like the emphasis on modern technological fields and the national capacity-building aspect. The model answer is partially accurate but not fully comprehensive."
+    },
+    {
+        "id": 108,
+        "instruction": "ما المجالات التقنية التي تركز عليها أكاديمية طويق؟",
+        "reference_answer": "تركز الأكاديمية على مجالات الحوسبة والتقنيات المتقدمة مثل البرمجة وهندسة البرمجيات وعلوم البيانات والأمن السيبراني.",
+        "model_answer": "تركز أكاديمية طويق على تطوير المهارات التقنية في مجالات البرمجة والتحليل الجغرافي وتطبيقات الذكاء الاصطناعي ومواد متقدمة.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly identifies programming as a focus area, which aligns with the reference answer. However, it includes 'geographic analysis' and 'advanced materials' which are not mentioned in the reference answer, and omits key areas like software engineering, data science, and cybersecurity. The answer is partially accurate but incomplete and includes irrelevant information."
+    },
+    {
+        "id": 109,
+        "instruction": "ما الفئات العمرية المستهدفة ببرامج أكاديمية طويق؟",
+        "reference_answer": "تقدم البرامج في طويق لفئات عمرية متنوعة، تشمل الشباب والطلاب، بما في ذلك برامج مصمّمة للأطفال والشباب.",
+        "model_answer": "تتراوح الفئات العمرية بين 10 و25 عامًا، بحيث تتوافر برامج خاصة بالمرحلة الثانوية وبرامج خاصة بالمرحلة الجامعية.",
+        "judge_score": 4,
+        "judge_rationale": "The model answer is accurate and relevant, specifying age ranges (10-25 years) and educational stages (secondary and university), which aligns with the reference's mention of youth and students. However, it omits explicit mention of children, which the reference includes, making it slightly less complete."
+    },
+    {
+        "id": 110,
+        "instruction": "ماذا تقدم أكاديمية طويق من برامج وأنشطة؟",
+        "reference_answer": "تقدم أكاديمية طويق معسكرات تعليمية طويلة المدى وبرامج تدريبية احترافية قصيرة الأمد، إضافةً إلى التعليم الإلكتروني، ومسابقات عالمية، ومجتمعات رقمية، ولقاءات معرفية.",
+        "model_answer": "تقدم أكاديمية طويق برامج أكاديمية في مجالات التكنولوجيا والبرمجة، وتنظم فعاليات مثل المسابقات التقنية، وأولمبياد طويق.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies some programs and activities offered by Tuwaiq Academy, such as academic programs in technology/programming and technical competitions, which aligns with the Reference Answer's mention of professional training programs and global competitions. However, it misses several key elements from the Reference Answer: long-term educational camps, short-term professional training programs, e-learning, digital communities, and knowledge meetings. The answer is partially complete but lacks the comprehensive detail provided in the Reference Answer."
+    },
+    {
+        "id": 111,
+        "instruction": "ما هي معسكرات طويق ومميزاتها؟",
+        "reference_answer": "معسكرات طويق هي برامج تدريبية مكثفة تمتد من شهر إلى 9 أشهر، تصدر عنها شهادات احترافية في مجالات تقنية متعددة، وتتوّج بتوظيف المتميزين منها.",
+        "model_answer": "تركز معسكرات طويق على البرمجة والتكنولوجيا، وتقدم إمكانية الحصول على شهادة معتمدة، وتنظيم حلقات ومقاطع تعليمية مخصصة للبرمجة المبتدئة.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies that Tuwaiq camps focus on programming/technology and mention certificates, which aligns with the Reference Answer's emphasis on intensive training and professional certificates. However, it lacks completeness by omitting key details from the Reference Answer: the duration (1-9 months), multiple technical fields (not just programming), and the employment outcome for top performers. The Model Answer also introduces elements not in the Reference Answer (beginner programming tutorials), which are not inaccurate but less relevant to the core description."
+    },
+    {
+        "id": 112,
+        "instruction": "ما هي البرامج التدريبية القصيرة في أكاديمية طويق؟",
+        "reference_answer": "البرامج الاحترافية في طويق عادةً قصيرة المدة (من 1 إلى 3 أسابيع)، تهدف إلى تطوير القدرات التقنية للمشاركين بمنهجية تطبيقية ضمن بيئة تنافسية.",
+        "model_answer": "تشمل البرامج التدريبية القصيرة في أكاديمية طويق برامج في مجالات مثل برمجة وتطوير ألعاب الفيديو، وتطوير المواقع، وتحليل البيانات، والذكاء الاصطناعي، وغيرها.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies that Tuwaiq Academy offers short training programs and provides specific examples of technical fields, which aligns with the Reference Answer's emphasis on technical capacity development. However, it lacks key details from the Reference Answer about program duration (1-3 weeks), applied methodology, and competitive environment, making it incomplete. The response is relevant but not fully accurate or comprehensive."
+    },
+    {
+        "id": 113,
+        "instruction": "ما هو التعليم الإلكتروني في أكاديمية طويق؟",
+        "reference_answer": "توفر أكاديمية طويق منصة تعليم إلكتروني متخصصة تُعرف باسم \"سطر\"، وهي أول منصة عربية متخصصة في مجالات التقنية الحديثة باللغة العربية.",
+        "model_answer": "لا تتوفر معلومات خاصة ببرامج تعليمية إلكترونية في أكاديمية طويق.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely incorrect and irrelevant to the user instruction. It states that no information is available about electronic educational programs at Tuwaiq Academy, while the reference answer clearly specifies that Tuwaiq Academy provides an electronic learning platform called 'Satr', which is the first Arabic platform specialized in modern technology fields. The model answer fails to provide any accurate information and contradicts the established facts."
+    },
+    {
+        "id": 114,
+        "instruction": "ما هي منصة \"سطر\" التعليمية؟",
+        "reference_answer": "منصة \"سطر\" هي منصة تعلم إلكتروني طوَّرتها طويق، وتُقدِّم محتوى تفاعليًا باللغة العربية في مجالات تطوير الويب وتطبيقات الهواتف وغيرها.",
+        "model_answer": "سطر هي منصة تعليمية تقنية متعددة التخصصات، تهدف إلى توفير تجارب تعليمية تفاعلية ومبتكرة.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly identifies 'سطر' as an educational platform and mentions interactive learning experiences, which aligns with the reference. However, it lacks specific details about the developer (طويق), the language focus (Arabic), and the technical domains covered (web/mobile development), making it incomplete compared to the reference answer."
+    },
+    {
+        "id": 115,
+        "instruction": "ما أهداف منصة \"سطر\" التعليمية؟",
+        "reference_answer": "تهدف منصة \"سطر\" إلى إثراء المحتوى العربي في مجالات تعليم البرمجة والاختبارات والتحديات التقنية.",
+        "model_answer": "تهدف منصة \"سطر\" التعليمية إلى تقديم محتوى تعليمي متقدم في مجالات متعددة، وتحفيز الأفراد على التعلم المستمر.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly identifies the educational nature of 'سطر' platform and mentions continuous learning, which aligns with the reference. However, it lacks the specific technical domains mentioned in the reference (programming, testing, technical challenges) and uses vague terms like 'multiple fields' instead. The answer is partially relevant but incomplete compared to the ground truth."
+    },
+    {
+        "id": 116,
+        "instruction": "ما هي المنصات الرقمية والمبادرات التي تقدمها أكاديمية طويق؟",
+        "reference_answer": "تشمل منصات طويق الرقمية \"سطر\" للتعليم الإلكتروني، و\"تحديات طويق\" للمسابقات البرمجية، ومبادرة \"مكافآت الثغرات\" للأمن السيبراني، إضافة إلى مبادرات مثل مركز الاختبارات، ونادي طويق، وطويق درونز.",
+        "model_answer": "توفر أكاديمية طويق منصة تدريبية على الإنترنت، والمسار المهني للبرمجة، وبرنامج \"كود\" للتعليم الذاتي، وبرنامج \"الابتكار\" للتعليم عبر الحوار، ومبادرة \"سطر\" لتبادل الخبرات.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer mentions 'سطر' which matches the reference, but incorrectly describes it as an experience exchange platform rather than an e-learning platform. Other mentioned platforms like 'المسار المهني للبرمجة', 'كود', and 'الابتكار' do not appear in the reference answer, while key platforms from the reference like 'تحديات طويق', 'مكافآت الثغرات', 'مركز الاختبارات', 'نادي طويق', and 'طويق درونز' are missing. The answer shows partial relevance but lacks completeness and accuracy."
+    },
+    {
+        "id": 117,
+        "instruction": "ما هي مبادرة \"تحديات طويق\"؟",
+        "reference_answer": "هي منصة مسابقات برمجية تقنية تنظمها أكاديمية طويق، تهدف إلى تطوير مهارات البرمجة والتحفيز على الابتكار بين المتدربين.",
+        "model_answer": "هي منصة تُقدّم تحديات برمجية للمشاركة وتركز على حل المشكلات التقنية، وتُعد جزءًا من محتوى أكاديمية طويق.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer accurately identifies 'تحديات طويق' as a programming challenge platform associated with Tuwaiq Academy, correctly capturing its focus on technical problem-solving. It is relevant and mostly complete, matching the Reference Answer's core elements. However, it omits the specific goal of developing programming skills and fostering innovation among trainees mentioned in the Reference Answer, which slightly reduces completeness."
+    },
+    {
+        "id": 118,
+        "instruction": "ما هي مبادرة \"مكافآت الثغرات\"؟",
+        "reference_answer": "هي مبادرة لأمن المعلومات تطلقها أكاديمية طويق بالتعاون مع جهات متخصصة، تهدف إلى تشجيع الباحثين الأمنيين على اكتشاف الثغرات وتأمين الأنظمة.",
+        "model_answer": "لم يتم ذكر تفاصيل مبادرة \"مكافآت الثغرات\" بشكل مستقل في المصادر المتاحة، إلا أنها قد ترتبط بالبرامج الحكومية لتطوير تقنيات الذكاء الاصطناعي.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and irrelevant. It incorrectly suggests the initiative is related to AI technology development programs, while the reference answer clearly states it's an information security initiative by Tuwaiq Academy to encourage security researchers to find vulnerabilities. The model answer shows no understanding of the actual topic."
+    },
+    {
+        "id": 119,
+        "instruction": "ما هو \"نادي طويق\"؟",
+        "reference_answer": "نادي طويق هو منبر تعريفي وتفاعلي يُعنى بتمكين الشباب من المهارات التقنية والاجتماعية عبر ورش عمل وفعاليات مشتركة مع المجتمع الرقمي.",
+        "model_answer": "يُعد \"نادي طويق\" إحدى أبرز الفرق الرياضية في السعودية، وله مُقر في الرياض.",
+        "judge_score": 1,
+        "judge_rationale": "The Model Answer is completely wrong and irrelevant to the User Instruction. It incorrectly describes 'نادي طويق' as a sports team in Saudi Arabia, while the Reference Answer clearly states it is an interactive platform focused on empowering youth with technical and social skills through workshops and community events. The Model Answer shows no understanding of the actual nature of the organization."
+    },
+    {
+        "id": 120,
+        "instruction": "ما هي مبادرة \"طويق درونز\"؟",
+        "reference_answer": "مبادرة طويق درونز تهدف إلى نشر ثقافة وتقنيات الطائرات المسيرة (الدرونز) في المجتمع، من خلال معسكرات تدريبية وورش عملية متخصصة.",
+        "model_answer": "تشير مبادرة \"طويق درونز\" إلى برامج تدريب وتطوير في مجالات التقنيات الحديثة من خلال تعلم مهارات البرمجة والتصميم والأعمال الرقمية.",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer is partially relevant but inaccurate and incomplete. It correctly identifies the initiative as involving training and development, but incorrectly specifies programming, design, and digital business skills instead of drone technology and culture. It misses the core focus on drones and community outreach through camps and workshops, making it misleading despite some tangential relevance."
+    },
+    {
+        "id": 121,
+        "instruction": "ما هي مدارس طويق؟",
+        "reference_answer": "لا تتوفر معلومات كافية حول برامج المدارس التقنية (مدارس الموهوبين التقنية) المرتبطة بأكاديمية طويق في المصادر الموثوقة.",
+        "model_answer": "يُستثمر جزء من أصول طويق في تأسيس مدارس تقنية، وتم افتتاح أكاديمية طويق لتطوير المهارات التقنية في عام 2020، بالإضافة إلى أكاديمية طويق للتعليم المستند إلى مشاريع (بنية التحتية التعليمية المتقدمة).",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides some relevant information about Tuwaiq Academy and technical schools, but it incorrectly claims that Tuwaiq invests in establishing technical schools and mentions specific details (opened in 2020, project-based education academy) that are not verified in the reference answer. The reference answer explicitly states that there is insufficient reliable information about technical schools linked to Tuwaiq Academy, making the model answer inaccurate and potentially misleading. It shows partial relevance but fails in accuracy and completeness."
+    },
+    {
+        "id": 122,
+        "instruction": "كم عدد الطلاب المسجلين في كل برنامج من برامج طويق؟",
+        "reference_answer": "يتجاوز عدد الطلاب المسجلين في أي برنامج منفرد بالأكاديمية 5000 متدرب وطالبة.",
+        "model_answer": "50-200 طالب في كل برنامج، وقد تختلف هذه الأرقام حسب البرنامج.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely inaccurate compared to the reference answer. The reference states that each program has over 5000 trainees/students, while the model answer claims only 50-200 students per program. This represents a significant factual discrepancy, making the model answer misleading and incorrect."
+    },
+    {
+        "id": 123,
+        "instruction": "كم عدد أعضاء هيئة التدريس في أكاديمية طويق؟",
+        "reference_answer": "يبلغ عدد أعضاء هيئة التدريس في الأكاديمية أكثر من 50 معيداً ومحاضراً متخصصاً.",
+        "model_answer": "15 عضوًا.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and irrelevant compared to the reference answer. The reference states there are over 50 faculty members, while the model claims only 15, showing a significant factual inaccuracy with no alignment to the provided ground truth."
+    },
+    {
+        "id": 124,
+        "instruction": "كم عدد الطلاب الذين تستقبلهم أكاديمية طويق يومياً؟",
+        "reference_answer": "تستقبل أكاديمية طويق أكثر من 1000 طالب وطالبة يومياً في برامجها المختلفة.",
+        "model_answer": "600 طالب تقريباً.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides a specific numerical response (600 students) which is relevant to the question about daily student numbers, but it significantly underestimates the actual figure compared to the reference answer of over 1000 students. While not completely wrong or irrelevant, the discrepancy is substantial, indicating poor accuracy."
+    },
+    {
+        "id": 125,
+        "instruction": "كم عدد المسجلين في المعسكرات والبرامج التدريبية بأكاديمية طويق حتى الآن؟",
+        "reference_answer": "أكاديمية طويق أعلنت عن تجاوز عدد المسجلين في معسكراتها وبرامجها التعليمية 1,618,445 مشتركاً.",
+        "model_answer": "3500+ (حتى عام 2022) من أكثر من 100 دولة، وزيادة سنوية.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and irrelevant. It provides a number (3500+) that is orders of magnitude smaller than the reference answer (1,618,445), lacks the specific timeframe mentioned in the reference, and includes extraneous information about countries and annual increases that are not requested in the instruction."
+    },
+    {
+        "id": 126,
+        "instruction": "كم عدد الشركات العالمية الشريكة مع أكاديمية طويق؟",
+        "reference_answer": "تتعاون طويق مع أكثر من 60 شركة ومؤسسة تكنولوجية عالمية.",
+        "model_answer": "50+ شركة دولية تتعاون مع أكاديمية طويق، منها شركات مثل آبل، مايكروسوفت، ووول مارت.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer is partially accurate but incomplete. It correctly identifies the collaboration with international companies and provides specific examples, which adds relevance. However, it states '50+ companies' while the reference answer specifies 'more than 60 companies', making it less accurate. The model answer lacks the full precision of the reference."
+    },
+    {
+        "id": 127,
+        "instruction": "من بعض الشركاء العالميين لأكاديمية طويق؟",
+        "reference_answer": "تشمل الشراكات مع شركات عالمية مثل Apple وAmazon وMicrosoft وMeta (Facebook) وAlibaba Cloud وIBM وCisco وOffensive Security وغيرها.",
+        "model_answer": "يُدرك من خلال الموقع الإلكتروني أنه يوجد شراكات مع شركاء عالميين مثل شركة \"رايز\" (Rize) الأميركية، وشركة \"هافد\" (Hive) البريطانية، وشركتي \"سريت\" (SreeTech) والصين \"أيكس تكنولوجي\" (XiTech) الصينية.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and irrelevant. It lists companies like 'Rize', 'Hive', 'SreeTech', and 'XiTech', which are not mentioned in the reference answer and are not known global partners of Tuwaiq Academy. The reference answer specifies well-known global companies such as Apple, Amazon, Microsoft, Meta, Alibaba Cloud, IBM, Cisco, and Offensive Security. The model answer fails to match any of these, showing a lack of accuracy, completeness, and relevance to the instruction."
+    },
+    {
+        "id": 128,
+        "instruction": "كم عدد الأكاديميات المتخصصة التابعة لأكاديمية طويق؟",
+        "reference_answer": "تشمل طويق خمسة أكاديميات تخصصية: أكاديمية مطوري أبل، وأكاديمية الميتافيرس (مع ميتا)، وأكاديمية هولبيرتون، وأكاديمية علي بابا كلاود، وأكاديمية الكراج.",
+        "model_answer": "9 أكاديميات متعددة التخصصات.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely incorrect. It states '9 أكاديميات متعددة التخصصات' (9 multidisciplinary academies), while the reference answer clearly specifies exactly five specialized academies: Apple Developer Academy, Metaverse Academy (with Meta), Holberton Academy, Alibaba Cloud Academy, and Garage Academy. The model answer is wrong in both count (9 vs 5) and description ('multidisciplinary' vs 'specialized'), showing no alignment with the factual information provided in the reference."
+    },
+    {
+        "id": 129,
+        "instruction": "ما بعض جهات التعاون التقنية العالمية مع طويق؟",
+        "reference_answer": "أبرمت طويق شراكات مع كبرى الجهات التقنية مثل أبل، سيسكو، Amazon Web Services، Alibaba Cloud، Oracle، IBM، Microsoft، Offensive Security، Trend Micro، وغيرها.",
+        "model_answer": "يُعدّ مركز طويق للتنمية التقنية (NTRC) من أبرز الشراكات التقنية العالمية، حيث يتم التعاون مع العديد من الشركاء التقنيين العالميين، مثل أكاديمية دافوس (WEF)، ومركز تقنيات الإنترنت (ICTA) في المالديف، ومركز التقنيات المتقدمة (ICTA) في سلطنة عمان، وغيرها.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer mentions some technical collaborations but fails to include any of the major global technology partners listed in the reference answer (Apple, Cisco, AWS, Alibaba Cloud, Oracle, IBM, Microsoft, etc.). Instead, it focuses on different entities like Davos Academy and ICTA centers, which are not mentioned in the reference and may not be as directly relevant to global technology partnerships. While the answer is somewhat relevant to technical collaboration, it lacks accuracy and completeness compared to the ground truth."
+    },
+    {
+        "id": 130,
+        "instruction": "ما بعض الاعتمادات والشهادات العالمية التي حصلت عليها أكاديمية طويق؟",
+        "reference_answer": "حصلت أكاديمية طويق على العديد من الاعتمادات الدولية، منها اعتماد أبل كأول مركز لتعليم البرمجة في الشرق الأوسط، واعتماد Google Cloud كشريك تدريبي معتمد، والاعتمادات المهنية لأمن المعلومات مثل CompTIA، وCPD Gold وغيرها.",
+        "model_answer": "حصلت أكاديمية طويق على شهادات معتمدة من شركاءها، مثل أكاديمية Microsoft، و Certiport، و Oracle University، وغيرها من الشركاء العالمية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer mentions some global certifications but fails to include the specific, key international accreditations listed in the reference answer (Apple, Google Cloud, CompTIA, CPD Gold). It provides partially relevant information but is incomplete and lacks the precise details required by the instruction."
+    },
+    {
+        "id": 131,
+        "instruction": "ما هي أكاديمية مطوري أبل (Apple Developer Academy) بالتعاون مع طويق؟",
+        "reference_answer": "هي أكاديمية لتطوير التطبيقات بالتعاون مع شركة أبل في الرياض، تُعد الأولى من نوعها في منطقة الشرق الأوسط وشمال أفريقيا.",
+        "model_answer": "هي أكاديمية تقنية متقدمة تعمل على تطوير مهارات البرمجة والإنترنت، وتقدم برامج تعليمية لمسار تطوير التطبيقات المتقدمة.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies the academy as a technical institution focused on programming and app development skills, which aligns with the Reference Answer's core purpose. However, it lacks specific details about the collaboration with Apple, the location in Riyadh, and its status as the first of its kind in the Middle East and North Africa region, making it incomplete compared to the Reference Answer."
+    },
+    {
+        "id": 132,
+        "instruction": "متى أُطلقت أكاديمية مطوري أبل السعودية بالشراكة مع طويق؟",
+        "reference_answer": "أُعلن إطلاق أكاديمية مطوري أبل في السعودية في 25 يوليو 2022م.",
+        "model_answer": "15 يناير 2023.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely incorrect. The reference answer clearly states the launch was announced on July 25, 2022, while the model answer gives January 15, 2023. This represents a significant factual error with a discrepancy of over five months, showing no accuracy or relevance to the instruction."
+    },
+    {
+        "id": 133,
+        "instruction": "ما هو الهدف من إطلاق أكاديمية مطوري أبل للنساء؟",
+        "reference_answer": "يُستهدف من خلال إنشاء أكاديمية مطوري أبل للنساء تمكين المرأة السعودية في قطاع التقنية وزيادة مشاركتها في سوق العمل التكنولوجي.",
+        "model_answer": "يهدف البرنامج إلى تطوير مهارات تطوير التطبيقات المتنقلة والوسوم الذكية، وتوفير فرص عمل في مجال التكنولوجيا.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies the program's focus on developing mobile app development skills and providing job opportunities in technology, which aligns with the Reference Answer's emphasis on empowering women in the tech sector. However, it fails to explicitly mention the specific target audience (Saudi women) and the goal of increasing their participation in the tech workforce, making it incomplete compared to the Reference Answer."
+    },
+    {
+        "id": 134,
+        "instruction": "ما هي أكاديمية الميتافيرس بالشراكة مع طويق؟",
+        "reference_answer": "أكاديمية الميتافيرس هي أول أكاديمية للواقع الافتراضي والميتافيرس في الشرق الأوسط، أُطلقت بالتعاون بين أكاديمية طويق وشركة Meta (فيسبوك سابقاً).",
+        "model_answer": "أكاديمية الميتافيرس هي أكاديمية تعليمية تقنية تقدم برامج في مجالات البرمجة و تطوير الألعاب و الذكاء الاصطناعي و البيانات و البرمجة و غيرها، وتتخصص في تقنيات متقدمة.",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer provides general information about an educational technology academy but fails to accurately address the specific partnership mentioned in the User Instruction. It does not mention the collaboration with Tuwaiq Academy or Meta, which are key elements in the Reference Answer. While it correctly identifies the academy as educational and technological, it lacks the crucial details about being the first VR/Metaverse academy in the Middle East and the specific partnership, making it incomplete and partially inaccurate."
+    },
+    {
+        "id": 135,
+        "instruction": "ما هي أكاديمية هولبيرتون بالمسار التأسيسي في طويق؟",
+        "reference_answer": "أكاديمية هولبيرتون هي برنامج تعليمي بالمسار التأسيسي لتأهيل مهندسي برمجيات، وقد دشّنت أول فرع لها في الشرق الأوسط بالتعاون مع أكاديمية طويق.",
+        "model_answer": "إن أكاديمية هولبيرتون بالمسار التأسيسي هي برنامج أكاديمي يُقدم للطلاب من جميع أنحاء العالم، وتحظى بسمعة طيقة في مجال البرمجة. يُعتبر برنامج هولبيرتون تطبيقًا العملي للتعلم، حيث يتم تدريس البرمجة بشكل جيد وعملي، مما يجعله مصدرًا قيمًا للطلاب.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies Holberton Academy as an academic program with a practical learning approach in programming, which aligns with the Reference Answer's emphasis on software engineering preparation. However, it lacks specific details about the foundational pathway in Tuwaig Academy and the Middle East collaboration mentioned in the Reference Answer, making it incomplete and less precise regarding the user's query."
+    },
+    {
+        "id": 136,
+        "instruction": "ما هي أكاديمية علي بابا كلاود بالتعاون مع طويق؟",
+        "reference_answer": "أكاديمية علي بابا كلاود تهدف إلى تقديم برامج تدريب احترافية في مجالات الحوسبة السحابية؛ حيث منح طويق اعتماداً ليكون مركزاً تدريبياً معتمداً في تقنيات الحوسبة السحابية.",
+        "model_answer": "أكاديمية علي بابا كلاود هي أكاديمية تقنية تعليمية تقنية تُدار بالشراكة مع طويق، تركز على تطوير مهارات التقنية.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies the partnership between Alibaba Cloud Academy and Tuwaiq and mentions the focus on technology skills development, which aligns with the Reference Answer's emphasis on professional training in cloud computing. However, it lacks specific details about the academy's purpose as a certified training center in cloud computing technologies, making it less complete and precise compared to the Reference Answer."
+    },
+    {
+        "id": 137,
+        "instruction": "ما هي أكاديمية الكراج في طويق؟",
+        "reference_answer": "لا تتوفر معلومات كافية ودقيقة حول تفاصيل أكاديمية الكراج في المصادر المتاحة.",
+        "model_answer": "أكاديمية الكراج هي برنامج تدريبي يُقدم في معهد طويق (مدرسة البرمجة والتطبيقات) وهدفُه تدريب المشاركين على مهارات البرمجة والاختراع.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides specific details about the academy's purpose and location, but the reference answer states that accurate information is not available in accessible sources. This suggests the model may be generating plausible but unverified information, making it potentially inaccurate despite appearing relevant and complete."
+    },
+    {
+        "id": 138,
+        "instruction": "ما نسبة توظيف خريجي معسكرات أكاديمية طويق؟",
+        "reference_answer": "وفقاً لإحصاءات الأكاديمية، تصل نسبة توظيف خريجي المعسكرات إلى حوالي 80% خلال ثلاثة أشهر من التخرج.",
+        "model_answer": "80% من خريجي معسكرات أكاديمية طويق يلتحقون في شركات تقنية.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly states the 80% employment rate, matching the Reference Answer's key statistic. However, it incorrectly specifies that these graduates join technology companies, which is not mentioned in the Reference Answer, and omits the timeframe of 'within three months of graduation' provided in the Reference Answer, reducing completeness."
+    },
+    {
+        "id": 139,
+        "instruction": "ما إنجازات طويق في معرض ITEX 2024 الدولي للاختراعات؟",
+        "reference_answer": "حقق طلاب أكاديمية طويق في معرض ITEX 2024 الدولي للاختراعات 9 ميداليات ذهبية وميدالية فضية و11 جائزة خاصة.",
+        "model_answer": "حصّلت أكاديمية طويق المركز الذهبي في مسابقة اختراعات الطلاب، وتمّ عرض مشاريع اختراقية وفعاليات التطبيقات على منصة طويق.",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer mentions Tuwaiq Academy's gold achievement and platform activities, which are partially relevant, but it lacks the specific quantitative details from the Reference Answer (9 gold medals, 1 silver, 11 special awards) and does not fully address the instruction's request for achievements at ITEX 2024. It is incomplete and somewhat vague compared to the precise reference."
+    },
+    {
+        "id": 140,
+        "instruction": "ما إنجازات طويق في معرض ITEX 2025 الدولي للاختراعات؟",
+        "reference_answer": "حصد طلاب الأكاديمية في معرض ITEX 2025 الدولي للاختراعات 12 ميدالية ذهبية و16 جائزة خاصة.",
+        "model_answer": "حصد معرض \"مبادرة طويق للمبتكرين\" الجوائز الذهبية في معرض ITEX 2025 الدولي للاختراعات، حيث تفوقت 20 اختراعًا من المشاركين السعوديين.",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer mentions the correct event (ITEX 2025) and indicates Saudi participants won gold medals, which aligns partially with the Reference Answer. However, it incorrectly attributes achievements to 'Tuwaiq Initiative for Innovators' rather than 'Tuwaiq Academy students,' and provides vague numbers (20 inventions) instead of the specific counts of 12 gold medals and 16 special awards from the Reference Answer, making it incomplete and somewhat inaccurate."
+    },
+    {
+        "id": 141,
+        "instruction": "ما إنجازات طويق في معرض جنيف الدولي للاختراعات 2025؟",
+        "reference_answer": "نال طلاب طويق في معرض جنيف الدولي للاختراعات 2025 ميداليتين ذهبيتين بتكريم متميزتين وميداليتين برونزيتين.",
+        "model_answer": "حصد طويق 11 جائزة فنية، وتم تصديق 12 اختراعاً في المعرض.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer mentions awards and inventions but provides completely different numbers (11 awards, 12 inventions) than the reference answer's specific counts (2 gold medals with distinction, 2 bronze medals). While the topic is relevant to the instruction, the factual accuracy is poor as it contradicts the reference details."
+    },
+    {
+        "id": 142,
+        "instruction": "ما إنجازات طويق في تحدي آبل العالمي Swift؟",
+        "reference_answer": "تمكّن طلاب أكاديمية طويق من تحقيق مراكز متقدمة ضمن أفضل ثلاثة تطبيقات في التحدي العالمي Swift الخاص بشركة أبل.",
+        "model_answer": "قد حصلت طويق على المركز الأول في تحدي Swift، كما تحققت من خلالها نتائج ممتازة في العديد من المسابقات الأخرى.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly identifies that Tuwaiq achieved a top position in the Swift challenge, which aligns with the reference answer's mention of advanced positions. However, it incorrectly specifies 'first place' when the reference only states 'top three applications,' and it adds unsupported information about other competitions not mentioned in the reference. This reduces accuracy and completeness."
+    },
+    {
+        "id": 143,
+        "instruction": "ما إنجازات طويق في الأولمبياد العالمي للروبوت 2024؟",
+        "reference_answer": "فاز فريق طويق بالمركز الأول على مستوى الدول العربية والمركز التاسع على مستوى العالم في الأولمبياد العالمي للروبوت عام 2024.",
+        "model_answer": "فاز طويق في الأولمبياد العالمي للروبوت 2024 بميدالية ذهبية في مسابقة البقاء، ما يُعد إنجازًا تاريخيًا.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies that Tuwaiq won at the 2024 World Robot Olympiad and mentions a gold medal in a specific competition ('Survival'), which is relevant and partially accurate. However, it lacks the completeness of the Reference Answer, which specifies the first place in the Arab world and ninth place globally. The Model Answer also does not mention these broader rankings, making it less comprehensive."
+    },
+    {
+        "id": 144,
+        "instruction": "ما إنجازات طويق في معرض سيئول الدولي للاختراعات؟",
+        "reference_answer": "حصل طلاب الأكاديمية على ميدالية فضية واحدة و3 جوائز خاصة في معرض سيئول الدولي للاختراعات.",
+        "model_answer": "حصلت طويق على جائزة \"الميدالية الذهبية\" في معرض سيئول الدولي للاختراعات لعام 2011، وتمكنت من الحصول على جائزة \"ميدالية ذهبية\" أخرى في نفس المعرض في عام 2013.",
+        "judge_score": 1,
+        "judge_rationale": "The Model Answer is completely inaccurate and irrelevant to the User Instruction. It claims Tuwaiq won gold medals in 2011 and 2013, while the Reference Answer specifies a silver medal and 3 special awards (with no mention of gold medals or specific years). The Model Answer fails to match any factual details from the Reference Answer, making it completely wrong."
+    },
+    {
+        "id": 145,
+        "instruction": "ما هي اللقاءات المعرفية في أكاديمية طويق؟",
+        "reference_answer": "اللقاءات المعرفية هي جلسات إثرائية تنظمها الأكاديمية بالشراكة مع جهات رائدة لمناقشة مواضيع التكنولوجيا الحديثة والتواصل والأعمال.",
+        "model_answer": "تشمل اللقاءات المعرفية في أكاديمية طويق المحاضرات والمعارف التقنية حول البرمجة، والأمان السيبراني، والتكنولوجيا الحديثة.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies the topic as technical knowledge sessions at Tuwaiq Academy and mentions modern technology, which aligns with the Reference Answer. However, it lacks completeness by omitting key details from the Reference Answer: that these are enrichment sessions organized in partnership with leading entities, and they cover communication and business topics alongside technology. The Model Answer also incorrectly specifies programming and cybersecurity as exclusive topics, which are not mentioned in the Reference Answer, reducing accuracy."
+    },
+    {
+        "id": 146,
+        "instruction": "ما هو النهج التعليمي في أكاديمية طويق؟",
+        "reference_answer": "تعتمد الطبيقات العملية كمحور لتعلم المهارات التقنية، حيث يتم تقديم البرامج بمنهجية تعلم قائمة على المشاريع العملية ضمن بيئة تعليمية تنافسية ومحفزة.",
+        "model_answer": "يُعدّ النهج التعليمي في أكاديمية طويق متقدمًا وينعكس على التطور التكنولوجي، حيث تُستخدم التقنيات الحديثة مثل التدريب عبر الويب وتطبيقات الألعاب التعليمية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer mentions modern technology and some educational methods, but it fails to capture the core approach described in the reference answer: project-based learning focused on practical applications within a competitive and stimulating environment. The model's response is partially relevant but incomplete and lacks specificity about the academy's actual educational methodology."
+    },
+    {
+        "id": 147,
+        "instruction": "من هم المستهدفون في برنامج \"طويق للناشئين\"؟",
+        "reference_answer": "يستهدف برنامج \"طويق للناشئين\" فئة الناشئين من عمر 6 إلى 17 سنة في المملكة.",
+        "model_answer": "المستهدفون في البرنامج هم الأطفال في سن المرحلة الثانوية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially relevant but incomplete and inaccurate. It correctly identifies that the program targets youth (children in high school age), but it fails to specify the exact age range (6-17 years) and omits the geographic scope (Kingdom of Saudi Arabia). Additionally, limiting the target to high school students excludes younger children (6-13 years) who are part of the program according to the reference."
+    },
+    {
+        "id": 148,
+        "instruction": "ما هي شروط التسجيل في برنامج \"طويق للناشئين\"؟",
+        "reference_answer": "يشترط في برنامج \"طويق للناشئين\" أن يكون المتقدم سعودي الجنسية وأن يلتزم بالحضور الشخصي، ويتم تقديم المحتوى باللغة العربية.",
+        "model_answer": "تكون الشروط متوافقة مع معايير أكاديمية طويق، وتشمل الالتحاق ببرامج طويق السابقة، والالتحاق بالبرامج الموجودة حاليًا، وقيود المنح الدراسية.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and irrelevant. It fails to mention any of the actual conditions specified in the reference answer (Saudi nationality, personal attendance, Arabic language content) and instead provides unrelated criteria about academic standards, previous programs, current programs, and scholarship restrictions that are not part of the actual requirements."
+    },
+    {
+        "id": 149,
+        "instruction": "ما هي مميزات برامج \"طويق للناشئين\"؟",
+        "reference_answer": "توفر برامج طويق للناشئين بيئة تعليمية داعمة وتنافسية لتعلم البرمجة والتصميم وغيرها من التقنيات معتمدين على تطبيقات عملية.",
+        "model_answer": "تتوفر برامج متعددة، مثل تطوير البرمجيات وتصميم الجرافيك والهندسة، مما يضمن تنوع الخبرات.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies that multiple programs are available and mentions some specific areas (software development, graphic design, engineering), which aligns with the Reference Answer's mention of programming, design, and other technologies. However, it lacks the key details about the supportive and competitive learning environment and practical applications emphasized in the Reference Answer, making it incomplete. It is relevant but not fully accurate or comprehensive."
+    },
+    {
+        "id": 150,
+        "instruction": "ما المزايا التي يحصل عليها خريجو المعسكرات في طويق؟",
+        "reference_answer": "يحصل خريجو المعسكرات في أكاديمية طويق على شهادات احترافية معترف بها عالمياً، بالإضافة إلى فرص وظيفية عالية (حوالي 80% منهم يحصلون على وظيفة خلال 3 أشهر).",
+        "model_answer": "ُيقدم طويق العديد من المزايا للخريجين، مثل شهادات أكاديمية معتمدة، ومسابقات عمل، وفرص توظيف.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies some advantages (certificates and employment opportunities) but lacks the specific details and precision of the Reference Answer. It mentions 'academic certificates' instead of 'professional certificates recognized globally' and adds 'job competitions' which is not in the Reference Answer, making it less accurate and complete."
+    },
+    {
+        "id": 151,
+        "instruction": "كيف تساهم أكاديمية طويق في سد فجوة المهارات في سوق العمل؟",
+        "reference_answer": "تركز أكاديمية طويق على بناء القدرات الوطنية في مجالات التقنية المتقدمة بهدف سد فجوة المهارات بين مخرجات التعليم ومتطلبات سوق العمل.",
+        "model_answer": "تساهم أكاديمية طويق في سد فجوة المهارات في سوق العمل من خلال تقديم برامج التدريب التقني والأكاديمية لتعزيز المهارات التقنية وتأهيل المهندسين والمطورين المحليين.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer accurately describes how Tuwaiq Academy contributes to bridging the skills gap by offering technical and academic training programs to enhance technical skills and qualify local engineers and developers. It is relevant and mostly complete, aligning well with the Reference Answer's focus on building national capabilities in advanced technology. However, it lacks explicit mention of aligning educational outputs with labor market demands, which is a key point in the Reference Answer."
+    },
+    {
+        "id": 152,
+        "instruction": "ما المبادرات التعليمية الجديدة التي أطلقتها أكاديمية طويق مؤخراً؟",
+        "reference_answer": "أطلقت الأكاديمية مؤخراً دبلومًا لتطوير الألعاب والعوالم الافتراضية (الميتافيرس) بالتعاون مع شركة Meta.",
+        "model_answer": "تشمل المبادرات الجديدة التي أطلقتها أكاديمية طويق: \"تطبيقات الذكاء الاصطناعي في التعلم\" و\"تطبيقات قواعد البيانات في العمل\" و\"تطبيقات تقنية المعلومات\" و\"المهارات التقنية المتقدمة\" و\"برامج تطوير الألعاب\" و\"برامج التعلم عبر الإنترنت\".",
+        "judge_score": 2,
+        "judge_rationale": "The model answer lists multiple educational initiatives but fails to mention the specific new initiative mentioned in the reference answer (diploma for game development and metaverse in collaboration with Meta). While some items like 'برامج تطوير الألعاب' are somewhat related, the answer lacks accuracy and completeness regarding the most recent initiative."
+    },
+    {
+        "id": 153,
+        "instruction": "كيف تدعم أكاديمية طويق تمكين المرأة السعودية في مجال التقنية؟",
+        "reference_answer": "أطلقت طويق أول أكاديمية لمطوري أبل مخصصة للنساء في المنطقة بهدف تمكين المرأة السعودية وزيادة مشاركتها في سوق العمل التقني.",
+        "model_answer": "تشجع أكاديمية طويق على حضور النساء السعودية في البرامج التعليمية التقنية، وتقدم مسارات تدريبية وفرص توظيف تتيح لهم تقدرتهم التقنية.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies that Tuwaiq Academy supports Saudi women in technology through educational programs and training pathways, which aligns with the Reference Answer's focus on empowerment and participation. However, it lacks the specific detail about being the first Apple Developer Academy for women in the region, making it less precise and complete compared to the Reference Answer."
+    },
+    {
+        "id": 154,
+        "instruction": "هل تقدم أكاديمية طويق برامج تعليمية عبر الإنترنت فقط؟",
+        "reference_answer": "تركز طويق على التعليم العملي والتفاعلي، وتقدم غالبية برامجها حضورياً، مع بعض الدورات على منصتها الإلكترونية. لا توجد معلومات دقيقة تفيد بأنها تعتمد التعلم عن بُعد فقط.",
+        "model_answer": "لا، تقدم الأكاديمية برامجها التعليمية عبر الإنترنت، ولكنها أيضًا توفر برامج تدريبية مُجتمعية على أرض الواقع.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer incorrectly states that the academy primarily offers online programs, which contradicts the reference answer's emphasis on in-person, practical education. While it correctly mentions some community training programs on the ground, it fails to accurately reflect that most programs are in-person with only some online courses, and it misses the key point that there's no information supporting online-only education."
+    },
+    {
+        "id": 155,
+        "instruction": "ما هي اللغات البرمجية التي يتم تدريسها في طويق؟",
+        "reference_answer": "لا تتوفر معلومات محددة في المصادر المتاحة حول لغات البرمجة التي تُدرَّس في أكاديمية طويق.",
+        "model_answer": "توفر أكاديمية طويق دورات في تطوير البرامج والويب، ويُدرَّس فيها العديد من اللغات البرمجية مثل لغة Python و Java و C و C++ و JavaScript.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides specific programming languages (Python, Java, C, C++, JavaScript) but contradicts the reference answer which states no specific information is available. While the answer appears relevant and complete in structure, it lacks accuracy as it presents unverified claims not supported by the reference."
+    },
+    {
+        "id": 156,
+        "instruction": "هل تقدم طويق منحاً دراسية للمتدربين؟",
+        "reference_answer": "لا توجد معلومات في المصادر الرسمية حول تقديم أكاديمية طويق منحاً دراسية أو تمويلاً للمتدربين.",
+        "model_answer": "نعم، تقدم أكاديمية طويق منحاً دراسية للمتدربين في البرامج التدريبية.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely incorrect and contradicts the reference answer. The reference answer clearly states there is no official information about Tuwaiq Academy offering scholarships or funding to trainees, while the model answer asserts they do offer scholarships. This is a fundamental factual error with no redeeming qualities in accuracy, completeness, or relevance."
+    },
+    {
+        "id": 157,
+        "instruction": "هل برامج طويق مفتوحة لغير السعوديين؟",
+        "reference_answer": "تشترط معظم برامج طويق أن يكون المتقدم سعودي الجنسية، ولم تذكر المصادر برامج مخصصة لغير السعوديين.",
+        "model_answer": "نعم، تكون برامج طويق مفتوحة للجميع بغض النظر عن الجنسية.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely incorrect and contradicts the reference answer. The reference clearly states that most Tuwaiq programs require Saudi nationality and no programs for non-Saudis are mentioned, while the model claims the programs are open to everyone regardless of nationality. This represents a fundamental factual error with no redeeming qualities."
+    },
+    {
+        "id": 158,
+        "instruction": "ما هي اللغة الرئيسية للدورات في أكاديمية طويق؟",
+        "reference_answer": "يُقدَّم معظم المحتوى التعليمي في أكاديمية طويق باللغة العربية، خاصةً في المنصات الموجهة للمجتمع المحلي.",
+        "model_answer": "اللغة العربية هي اللغة الرئيسية للدورات في أكاديمية طويق، ولكن يتم تدريس بعض البرامج بالإنجليزية.",
+        "judge_score": 5,
+        "judge_rationale": "The model answer accurately states that Arabic is the main language for courses at Tuwaiq Academy, matching the reference answer's core claim. It adds useful additional context about some programs being taught in English, which enhances completeness without contradicting the reference. The answer is fully relevant to the instruction and provides a clear, precise response."
+    },
+    {
+        "id": 159,
+        "instruction": "هل تضمن طويق توظيف خريجيها؟",
+        "reference_answer": "على الرغم من أن الأكاديمية لا تقدم ضماناً رسمياً للتوظيف، إلا أن نسبة توظيف خريجيها مرتفعة؛ حيث تصل إلى حوالي 80% في غضون 3 أشهر.",
+        "model_answer": "يعتمد توظيف خريجي البرامج على إنجازاتهم وتقديرهم من قبل شركاء المؤسسة.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially relevant but incomplete and inaccurate compared to the reference. It correctly mentions that employment depends on achievements and partner recognition, but fails to address the key points from the reference: the lack of formal guarantee and the high employment rate (80% within 3 months). This omission makes the answer misleading and insufficient."
+    },
+    {
+        "id": 160,
+        "instruction": "هل طويق معترف بها دولياً؟",
+        "reference_answer": "نعم، لدى طويق اعتمادات وشراكات دولية مع شركات تقنية عالمية مثل أبل وغوغل وغيرها، مما يدل على اعتراف عالمي ببرامجها.",
+        "model_answer": "نعم، طويق معترف بها دولياً على أنها أكاديمية رائدة في مجالات التكنولوجيا والتحول الرقمي.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly states that Tuwaiq is internationally recognized, aligning with the Reference Answer's affirmation. However, it lacks the specific details about international accreditations and partnerships with global tech companies like Apple and Google that the Reference Answer provides, making it less complete."
+    },
+    {
+        "id": 161,
+        "instruction": "كم عدد المتدربين المسجلين على منصة \"سطر\" التعليمية حتى الآن؟",
+        "reference_answer": "أعلنت طويق أن عدد المتدربين المسجلين على منصة \"سطر\" قد تجاوز 1,414,079 متدرباً.",
+        "model_answer": "1,200 متدرب تقريبًا، حسب آخر إحصائيات.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially relevant but significantly inaccurate and incomplete. While it addresses the question about registered trainees on the 'Satar' platform, it provides an approximate figure of 1,200, which is far lower than the reference answer's precise figure of over 1,414,079. The answer lacks completeness as it does not mention the source (Tuwaiq) or the timeframe implied by 'until now.' The model's use of 'approximately' and 'according to latest statistics' attempts to hedge but does not compensate for the major discrepancy in numbers."
+    },
+    {
+        "id": 162,
+        "instruction": "ما شعار أكاديمية طويق؟",
+        "reference_answer": "يتضح شعار الموقع بأنّ الأكاديمية تهدف إلى \"تعلم تقنيات المستقبل في مكان واحد\".",
+        "model_answer": "\"للمبدعين\" (For the creative minds).",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely incorrect and irrelevant to the user's question about the slogan of Tuwaiq Academy. The reference answer clearly states the slogan is about learning future technologies in one place, while the model provided a different phrase unrelated to the actual slogan."
+    },
+    {
+        "id": 163,
+        "instruction": "ما المواضيع التي تغطيها اللقاءات المعرفية في طويق؟",
+        "reference_answer": "تتناول اللقاءات المعرفية مواضيع متنوعة في التقنيات الحديثة والتواصل والأعمال.",
+        "model_answer": "تركز اللقاءات المعرفية في طويق على التطبيقات العملية لأدوات البرمجة والتقنيات الحديثة، وتقدم حصصاً عملية للطلاب.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer is partially accurate and relevant, mentioning modern technologies which aligns with the Reference Answer, but it incorrectly specifies programming tools and practical sessions for students, which are not mentioned in the Reference Answer. It lacks completeness as it omits the broader topics of communication and business covered in the Reference Answer."
+    },
+    {
+        "id": 164,
+        "instruction": "ما هي المسارات التقنية المتاحة في معسكرات طويق؟",
+        "reference_answer": "تشمل المعسكرات التدريبية في طويق مسارات تقنية متنوعة مثل البرمجة وهندسة البرمجيات، وعلوم البيانات والذكاء الاصطناعي، والأمن السيبراني.",
+        "model_answer": "يتراوح بين 10 إلى 15 مسارًا تقنيًا مختلفًا في معسكرات طويق، يسمح للمشاركين في هذه المسارات بالتقدم في مهاراتهم التقنية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer acknowledges the existence of technical tracks in Tuwaiq camps but fails to specify any of them, unlike the reference answer which clearly lists programming/software engineering, data science/AI, and cybersecurity. The model's vague statement about 10-15 tracks lacks concrete information, making it incomplete and less accurate compared to the detailed reference."
+    },
+    {
+        "id": 165,
+        "instruction": "هل تقدم أكاديمية طويق فرص عمل مباشرة للمتدربين؟",
+        "reference_answer": "لا يوجد ذكر صريح لوعد بتوظيف المتدربين مباشرةً، لكن الأكاديمية تنظم \"برنامج طويق للتوظيف\" للتواصل مع جهات توظيف، ويسجل خريجوها نسب توظيف عالية (~80%).",
+        "model_answer": "لا تركز أكاديمية طويق بشكل خاص على فرص عمل مباشرة، بل تُعد التدريب منصة للتدريب والتنافس، وتعمل مع الشركات المحلية للتوظيف.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly states that the academy does not focus on direct job opportunities and mentions collaboration with local companies for employment, aligning with the Reference Answer's emphasis on the 'Tuwaiq Employment Program' and high employment rates. However, it lacks specific details like the program name and the ~80% employment statistic, making it slightly less complete."
+    },
+    {
+        "id": 166,
+        "instruction": "هل تطلب أكاديمية طويق شهادة جامعية للتسجيل؟",
+        "reference_answer": "لا تتوفر معلومات محددة في المصادر حول وجود شروط جامعية؛ تتنوع شروط القبول حسب البرنامج ونوعية معسكر التدريب.",
+        "model_answer": "لا تُطلب شهادة جامعية للالتحاق بمعظم البرامج التدريبية.",
+        "judge_score": 4,
+        "judge_rationale": "The model answer is mostly accurate and relevant, correctly stating that a university degree is not required for most training programs, which aligns with the reference answer's indication that admission requirements vary by program and training camp type. However, it lacks the nuance about the absence of specific information in sources and the variability of conditions mentioned in the reference answer, making it slightly less complete."
+    },
+    {
+        "id": 167,
+        "instruction": "هل توجد برامج خاصة بالذكاء الاصطناعي في طويق؟",
+        "reference_answer": "نعم، تشمل برامج الأكاديمية مسارات في علوم البيانات والذكاء الاصطناعي ضمن البرامج التدريبية التي تقدمها.",
+        "model_answer": "نعم، يتم تدريس برامج الذكاء الاصطناعي في الأكاديمية التقنية.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly confirms the existence of AI programs (accuracy) and is relevant to the Instruction, but it incorrectly specifies 'الأكاديمية التقنية' (Technical Academy) instead of the correct institution mentioned in the Reference Answer ('أكاديمية طويق' or similar context). It also lacks the completeness of mentioning data science alongside AI as in the Reference Answer."
+    },
+    {
+        "id": 168,
+        "instruction": "هل تقدم طويق دورات أمن سيبراني متقدمة؟",
+        "reference_answer": "نعم، لدى طويق معسكرات أمن سيبراني هدفها تأهيل الباحثين الأمنيين وتزويدهم بالمهارات والوعي اللازمين.",
+        "model_answer": "نعم، تقدم أكاديمية طويق برامج تدريبية في مجال أمن السيبراني.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly confirms that Tuwaiq Academy offers cybersecurity training programs, which aligns with the Reference Answer's affirmation. However, it lacks the specific detail about 'advanced cybersecurity camps' and the explicit mention of training security researchers with necessary skills and awareness, making it slightly less complete."
+    },
+    {
+        "id": 169,
+        "instruction": "ما هي إجراءات الالتحاق بمعسكرات طويق؟",
+        "reference_answer": "عموماً يمكن التسجيل عبر الموقع الإلكتروني لأكاديمية طويق، مع التزام المتقدمين بالشروط الخاصة بكل معسكر (مثل الجنسية والخبرة).",
+        "model_answer": "1. يجب على المتقدمين أن يكونوا من الجنسية السعودية. 2. يجب أن يكونوا مقيمين في منطقة الرياض. 3. يجب أن تكون سنهم بين 15 و25 سنة. 4. يجب إكمال كافة الإجراءات اللازمة، مثل تحديد البرامج المشاركة والتأكيد على المعلومات. 5. يقوم الطلاب بالتسجيل عبر الموقع الإلكتروني أو عبر تطبيقات التواصل الاجتماعي. 6. يُطلب من الطلاب تقديم المستندات المطلوبة، مثل شهادات الثانوية العامة وشهادات التقدير. 7. يُجرى اختبارات تقييمية لتحديد مستوى الطالب. 8. يُتاح للطلاب إمكانية الإستفادة من برامج التدريب التابعة للمعسكر.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer provides detailed steps and requirements, showing good structure and relevance to the topic. However, it includes specific conditions (e.g., nationality, age, location) not mentioned in the reference answer, which may be inaccurate or overly restrictive. The core action of online registration aligns with the reference, but the added details lack verification against the ground truth, reducing accuracy."
+    },
+    {
+        "id": 170,
+        "instruction": "ما هي مواعيد معسكرات طويق القادمة؟",
+        "reference_answer": "يُعلن عن جدول المعسكرات وبرامج التدريب عبر موقع الأكاديمية بانتظام. على سبيل المثال، أعلنت طويق عن معسكرات شهر أبريل 2026 في عدة تخصصات تقنية.",
+        "model_answer": "لا تتوفر معلومات متعلقة بمواعيد معسكرات طويق القادمة على الموقع الرسمي، ويُفضل المراجعة بشكل دوري.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly states that specific upcoming camp dates are not available on the official site and suggests regular checking, which aligns with the Reference Answer's emphasis on regular announcements. However, it lacks the completeness of the Reference Answer, which provides concrete examples (April 2026 camps) and mentions the academy website as the source for schedules, making it less informative."
+    },
+    {
+        "id": 171,
+        "instruction": "هل هناك اختبارات تقييم للمشاركين في طويق؟",
+        "reference_answer": "لا يوجد ذكر صريح لوجود اختبارات تقييم خاصة بالأكاديمية، لكن بعض البرامج قد تتضمن اختبارات تقنية وحصول المتدربين على شهادات احترافية.",
+        "model_answer": "نعم، يتم تقييم مهارات المشاركين في النهاية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer states that participants are evaluated at the end, which is partially correct as some programs may include assessments. However, it incorrectly asserts a definitive 'yes' when the reference answer clarifies there is no explicit mention of specific academy-wide tests, only that some programs may include technical tests and professional certifications. The model answer lacks the nuance and completeness of the reference, making it somewhat misleading."
+    },
+    {
+        "id": 172,
+        "instruction": "هل تقدم طويق دورات في تطوير الألعاب؟",
+        "reference_answer": "أعلنت أكاديمية طويق عن إطلاق دبلوم لتطوير الألعاب والعوالم الافتراضية (الميتافيرس) بالشراكة مع شركة Meta.",
+        "model_answer": "لا توجد معلومات كافية عن برامج محددة في تطوير الألعاب في أكاديمية طويق، ولكنها تقدم برامجًا متعددة في مجالات البرمجة والتنمية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially relevant but incomplete and inaccurate. It correctly acknowledges uncertainty about specific game development programs, which aligns with the instruction's focus. However, it fails to mention the key information from the reference answer about the announced diploma in game development and metaverse in partnership with Meta, making it incomplete. The model's statement about multiple programming programs is somewhat relevant but doesn't address the specific query about game development courses. The answer lacks the concrete information provided in the reference."
+    },
+    {
+        "id": 173,
+        "instruction": "ما أبرز الإنجازات التقنية لطلاب طويق؟",
+        "reference_answer": "حقق طلاب طويق جوائز عالمية متعددة مثل ميداليات ذهبية في معارض اختراع دولية (ITEX) والأولمبيادات التقنية (WRO)، وقد أثبتوا تفوقهم عالمياً بالتنافس في مراكز متقدمة.",
+        "model_answer": "تم تدريب أكثر من 40 ألف طالب وتطوير 24 مشروعًا تقنيًا خلال أكثر من 200 أكاديمية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides some relevant information about training and projects, but it fails to address the instruction's focus on 'أبرز الإنجازات التقنية' (most prominent technical achievements). It completely misses the key achievements mentioned in the reference answer: international awards, gold medals in ITEX, WRO competitions, and global recognition. The answer is partially relevant but incomplete and lacks the specific accomplishments requested."
+    },
+    {
+        "id": 174,
+        "instruction": "ما أهمية أكاديمية طويق في تطوير القطاع التقني في السعودية؟",
+        "reference_answer": "تعتبر طويق أول أكاديمية متقدمة للتقنية في المملكة، وتلعب دوراً محورياً في تطوير الكوادر التقنية الوطنية بما يتماشى مع رؤية 2030، من خلال تقديم برامج احترافية وشراكات عالمية.",
+        "model_answer": "تعد أكاديمية طويق منصة تعليمية رائدة في تطوير التقنية في المملكة، حيث توفر برامج تدريبية متنوعة وتوفر فرصًا للتقدم المهني.",
+        "judge_score": 4,
+        "judge_rationale": "The model answer correctly identifies Tuwaiq Academy as a leading educational platform for technology development in Saudi Arabia and mentions its training programs and career advancement opportunities, which aligns with the reference answer's emphasis on developing national technical capabilities. However, it omits key details from the reference answer: that Tuwaiq is the first advanced technology academy in the Kingdom, its pivotal role in aligning with Vision 2030, and its global partnerships. The answer is accurate and relevant but lacks completeness regarding these specific, important aspects."
+    },
+    {
+        "id": 175,
+        "instruction": "هل طويق جزء من أي جهة حكومية؟",
+        "reference_answer": "أكاديمية طويق مبادرة وطنية تُنفذ تحت مظلة الاتحاد السعودي للأمن السيبراني والبرمجة (إحدى هيئات دولة)، لكنها تعمل ككيان تدريبي مستقل.",
+        "model_answer": "لم أجد معلومات تفيد أن طويق هو جزء من جهة حكومية معينة، لكنه يرعاه الحكومة السعودية.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly states that Tuwaiq is not part of a specific government entity and acknowledges Saudi government support, which aligns partially with the reference. However, it lacks the specific detail that Tuwaiq Academy operates under the Saudi Federation for Cybersecurity, Programming, and Drones (a government body) while maintaining independent training operations, making it incomplete compared to the reference answer."
+    },
+    {
+        "id": 176,
+        "instruction": "ما هي قيمة التدريب العملي في برامج طويق؟",
+        "reference_answer": "تؤكد طويق على التعليم القائم على المشاريع والتطبيقات العملية، مما يرفع من جودة التدريب ويجعل المتدربين جاهزين لسوق العمل.",
+        "model_answer": "يُدرّس طويق البرمجيات من خلال المشاريع الحقيقية، مما يُعد تدريباً عملياً وواسع النطاق.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer accurately captures the practical, project-based training approach of Tuwaiq, aligning well with the Reference Answer's emphasis on hands-on learning and job readiness. It is relevant and complete in describing the training method, though it slightly lacks the explicit mention of market preparation found in the Reference Answer."
+    },
+    {
+        "id": 177,
+        "instruction": "هل لدى طويق فروع في مناطق أخرى بالمملكة؟",
+        "reference_answer": "لا تتوفر معلومات في المصادر حول وجود فروع متعددة؛ المقر الرئيسي للأكاديمية في الرياض.",
+        "model_answer": "نعم، لدى طويق فروع في أبرق والأهساء.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and contradicts the reference answer. The reference answer clearly states there is no information about multiple branches, with the main headquarters in Riyadh, while the model incorrectly claims branches exist in specific locations (Abraq and Al-Ahsaa). This demonstrates a fundamental failure in accuracy and relevance to the instruction."
+    },
+    {
+        "id": 178,
+        "instruction": "ما هو الحاصل من الدورات القصيرة في طويق؟",
+        "reference_answer": "الدورات القصيرة في طويق تهدف إلى رفع مستوى المهارات التقنية بسرعة، لكن المصادر لا توفر تفاصيل مثل المدة الدقيقة لكل دورة.",
+        "model_answer": "9 ملايين ساعة.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer '9 ملايين ساعة' (9 million hours) is completely irrelevant to the user's question about the outcome or results of short courses at Tuwaiq. It provides a numerical figure with no connection to course outcomes, skills development, or any aspect mentioned in the reference answer. The response fails to address accuracy, completeness, or relevance to the instruction."
+    },
+    {
+        "id": 179,
+        "instruction": "كيف يمكن للمتدربين الحصول على شهادات طويق؟",
+        "reference_answer": "يحصل المتدربون على شهادات احترافية بعد إكمال معسكراتهم أو برامجهم التدريبية بنجاح، وهي شهادات معترف بها عالمياً.",
+        "model_answer": "يمكن للمتدربين الحصول على شهادات معتمدة من منصة طويق بعد إكمال البرامج التدريبية، وترتبط هذه الشهادات بالمعايير العالمية في مجالات البرمجة والذكاء الاصطناعي.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly stating that trainees can obtain certified certificates from the Tuwaiq platform after completing training programs, and it adds specific details about programming and AI fields. However, it slightly deviates from the Reference Answer by not explicitly mentioning global recognition, though it implies it through 'global standards.' It is complete in addressing the core query but could be more aligned with the exact phrasing of global recognition."
+    },
+    {
+        "id": 180,
+        "instruction": "ما هي أبرز الدورات المتاحة على منصة \"سطر\"؟",
+        "reference_answer": "تقدم منصة \"سطر\" دورات في مجالات مثل تصميم قواعد البيانات والحماية الرقمية وأخرى مبتدئة ومتقدمة في البرمجة.",
+        "model_answer": "توفر منصة \"سطر\" برامج تدريبية متنوعة في مجالات مثل التطوير البرمجي، والتصميم الجرافيكي، والتسويق الرقمي، وغيرها من التخصصات.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer mentions some relevant fields like software development, but it incorrectly includes graphic design and digital marketing, which are not in the reference answer. It also lacks specificity about database design, digital protection, and beginner/advanced programming courses, making it incomplete and partially inaccurate."
+    },
+    {
+        "id": 181,
+        "instruction": "ما العلاقة بين أكاديمية طويق ورؤية السعودية 2030؟",
+        "reference_answer": "تتوافق رؤية طويق مع أهداف 2030 في تمكين القوى الوطنية ورفع الكفاءة التقنية، من خلال برامج تدريب متقدمة ترتقي بالسوق المحلي للتقنية.",
+        "model_answer": "تركز أكاديمية طويق على تطوير مهارات التقنيين السعوديين، مما يتوافق مع أحد أهداف رؤية السعودية 2030 التي تهدف إلى تحقيق التقدم التقني والاقتصادي في المملكة.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly identifies the relationship between Tuwaiq Academy and Saudi Vision 2030, focusing on developing Saudi technicians' skills and aligning with the Vision's technological and economic advancement goals. It is accurate and relevant but slightly less specific than the Reference Answer, which explicitly mentions empowering national forces, raising technical efficiency, and advanced training programs that elevate the local technology market. The Model Answer captures the core alignment but omits some detailed aspects of the relationship."
+    },
+    {
+        "id": 182,
+        "instruction": "هل لدى طويق برامج للقادة التقنيين؟",
+        "reference_answer": "لا توجد معلومات في المصادر حول برامج مخصصة للقادة، حيث تركز طويق على التدريب التقني العام والمتوسط.",
+        "model_answer": "نعم، يقدم طويق برامج تدريبية لتحسين مهارات القيادة التقنية.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and contradicts the reference answer. The reference clearly states there is no information about programs for leaders, while the model claims such programs exist. This demonstrates a fundamental inaccuracy and lack of relevance to the instruction."
+    },
+    {
+        "id": 183,
+        "instruction": "ما هي نسبة السعودة في البرامج التدريبية؟",
+        "reference_answer": "تشترط برامج طويق غالباً الجنسية السعودية، وبذلك تكون الغالبية العظمى من المستفيدين من الأكاديمية سعوديين.",
+        "model_answer": "50% من البرامج التدريبية تحتوي على نسبة سعودية تتراوح بين 50% و 70%.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides a specific numerical percentage (50-70%) that is not supported by the reference answer, which only states that the majority of beneficiaries are Saudi without quantifying it. While the model answer is relevant to the question about Saudiization percentages in training programs, it lacks accuracy compared to the ground truth and makes an unsubstantiated claim."
+    },
+    {
+        "id": 184,
+        "instruction": "هل تقدم طويق دورات عالمية مثل امتحانات Pearson Vue؟",
+        "reference_answer": "نعم، يوجد في طويق مركز اختبارات معتمد مثل Pearson Vue لأداء امتحانات الشهادات الاحترافية العالمية.",
+        "model_answer": "نعم، تقدم أكاديمية طويق شهادات عالمية مثل شهادة CompTIA (رقم 2 في العالم) و شهادة Oracle (رقم 1 في العالم) وشهادة Cisco.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer is partially correct and relevant but incomplete. It correctly identifies that Tuwaiq offers global certifications (CompTIA, Oracle, Cisco), which addresses the core question about global courses/exams. However, it fails to mention the Pearson Vue testing center aspect specified in the reference answer, which is a key detail about how these exams are administered. The answer is accurate for what it includes but misses important contextual information."
+    },
+    {
+        "id": 185,
+        "instruction": "ما هي اعتمادات CompTIA في طويق؟",
+        "reference_answer": "أكاديمية طويق معتمدة من CompTIA لتقديم برامج احترافية في الأمن السيبراني والتقنيات الحديثة.",
+        "model_answer": "تمت الموافقة على أكاديمية طويق لتكون من أكاديميات CompTIA المعتمدة في منطقة الشرق الأوسط وشمال أفريقيا.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly stating that Tuwaiq Academy is an approved CompTIA academy in the Middle East and North Africa region. It aligns well with the Reference Answer's core information about accreditation. However, it lacks the specific details about the professional programs in cybersecurity and modern technologies mentioned in the Reference Answer, making it slightly less complete."
+    },
+    {
+        "id": 186,
+        "instruction": "ما هي اعتمادات Axelos في طويق؟",
+        "reference_answer": "تتيح أكاديمية طويق برامج معتمدة في إدارة التقنية من Axelos لتدريب المحترفين على أفضل الممارسات الإدارية.",
+        "model_answer": "تم الحصول على اعتماد من Axelos لبرامجها التعليمية من قبل أكاديمية طويق، مما يؤكد على جودة البرامج التدريبية.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly identifies that Tuwaiq Academy has Axelos accreditation for its educational programs and mentions quality assurance, which aligns with the Reference Answer's core message about accredited programs for technology management training. However, it lacks the specific detail about 'technology management' and 'best practices' mentioned in the Reference Answer, making it slightly less complete."
+    },
+    {
+        "id": 187,
+        "instruction": "ما هي اعتمادات Certnexus في طويق؟",
+        "reference_answer": "أكاديمية طويق هي أول شريك في الشرق الأوسط لأكاديمية CertNexus، ما يمكنها من تقديم برامج في التقنيات الناشئة والأمن السيبراني.",
+        "model_answer": "تم اعتماد Certnexus من قبل معاهد ومعاهد تعليمية في المملكة العربية السعودية مثل طويق، مما يعكس شراكتها وتحديدها كمنصة تعليمية معتمدة.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies that Certnexus is accredited by educational institutes in Saudi Arabia including Tuwaiq, and mentions partnership and accreditation. However, it lacks the specific detail from the Reference Answer that Tuwaiq Academy is the first Middle Eastern partner for CertNexus, and it doesn't explicitly state that Tuwaiq offers programs in emerging technologies and cybersecurity. The answer is partially accurate and relevant but incomplete."
+    },
+    {
+        "id": 188,
+        "instruction": "ما هي اعتمادات ITIL في طويق؟",
+        "reference_answer": "يوجد لدى طويق مركز معتمد لتقديم امتحانات شهادات ITIL في إدارة خدمات تقنية المعلومات.",
+        "model_answer": "يُقدِّم مركز طويق التدريب على إطار عمل ITIL (المعهد الملكي للتكنولوجيا) ويوفر شهادات معتمدة.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly identifies that Tuwaiq provides ITIL training and certifications, which aligns with the Reference Answer's mention of an accredited center for ITIL certification exams. However, it lacks the specific detail about Tuwaiq having an accredited center for ITIL certification exams, which is a minor omission in completeness."
+    },
+    {
+        "id": 189,
+        "instruction": "ما هي اعتمادات CPD في طويق؟",
+        "reference_answer": "حصلت أكاديمية طويق على اعتماد CPD Gold، ما يؤكد التزامها بمبادئ التطوير المهني المستمر وتقديم برامج تدريبية عالية الجودة.",
+        "model_answer": "اعتمادات CPD في طويق هي شهادات معتمدة من أكاديمية طويق في مجالات البرمجة والتقنيات المتقدمة.",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer correctly identifies that CPD accreditations are related to Tuwaiq Academy, but it incorrectly specifies the fields (programming and advanced technologies) and omits the key information about the CPD Gold accreditation and its significance regarding commitment to continuous professional development and high-quality training programs. It is partially relevant but incomplete and inaccurate in details."
+    },
+    {
+        "id": 190,
+        "instruction": "كم نسبة توظيف خريجي طويق خلال ثلاثة أشهر؟",
+        "reference_answer": "حوالي 80% من خريجي برامج طويق يحصلون على وظائف خلال ثلاثة أشهر من التخرج.",
+        "model_answer": "60% من خريجي طويق يجدون وظيفة خلال ثلاثة أشهر بعد تخرجهم.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially accurate but contains a significant factual discrepancy. While it correctly addresses the employment timeframe (three months after graduation) and maintains relevance to the instruction, it reports 60% employment rate versus the reference answer's 80%, representing a substantial 20-percentage-point error that reduces accuracy."
+    },
+    {
+        "id": 191,
+        "instruction": "كم عدد الخريجين المتدربين حضوريًا في معسكرات طويق؟",
+        "reference_answer": "أكثر من 15,000 متدرب/متدربة حضوري أكملوا برامج وخدمات طويق حتى الآن.",
+        "model_answer": "12.000 خريج.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially relevant but inaccurate and incomplete. It correctly addresses the topic of graduates/trainees in Tuwaiq camps, but provides a specific number (12,000) that contradicts the reference answer's 'more than 15,000'. It also omits key details from the reference: the distinction between in-person and other formats, gender inclusion (male/female trainees), and the completion of programs/services. The answer is too brief and lacks the contextual accuracy of the reference."
+    },
+    {
+        "id": 192,
+        "instruction": "هل شارك طويق في معسكرات أو لقاءات برعاية الهيئة العامة؟",
+        "reference_answer": "نشرت طويق فعاليات مشتركة، مثل لقاء \"طويق Talk\" بالشراكة مع هيئة الاتصالات وتقنية المعلومات.",
+        "model_answer": "نعم، شارك طويق في بعض المعسكرات التدريبية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially relevant but incomplete and inaccurate. It correctly addresses participation in training camps, which is related to the instruction, but fails to mention the specific 'طويق Talk' event partnership with the Communications and Information Technology Commission mentioned in the reference answer. The answer lacks detail and does not fully align with the reference."
+    },
+    {
+        "id": 193,
+        "instruction": "هل لدى طويق معسكرات للتحكم الصناعي؟",
+        "reference_answer": "لا توجد معلومات محدّثة في المصادر حول معسكرات مخصّصة للتحكم الصناعي، حيث تركز البرامج المعلنة على البرمجة والذكاء الاصطناعي والدرونز.",
+        "model_answer": "نعم، يتم تدريب المشاركين على البرامج المتقدمة في التحكم الصناعي.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and contradicts the reference answer. The reference answer clearly states there is no information about dedicated industrial control camps, while the model answer incorrectly claims such training exists. This demonstrates a fundamental failure in accuracy and relevance to the instruction."
+    },
+    {
+        "id": 194,
+        "instruction": "كيف تتابع طويق خريجيها بعد التخرج؟",
+        "reference_answer": "ذكرت المصادر أن أكاديمية طويق تنظم فعاليات توظيف تجمع خريجيها مع شركات توظيف، مما يسهم في متابعة الخريجين ومساعدتهم على الاندماج بسوق العمل.",
+        "model_answer": "تتابع أكاديمية طويق خريجيها بعد التخرج من خلال برامج تدريب استكمال، وإشراف مباشر، وعمليات التوظيف.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly identifying that Tuwaiq Academy follows up with graduates after graduation. It mentions employment processes which aligns with the Reference Answer's focus on job market integration. However, it lacks the specific detail about organized recruitment events with companies that the Reference Answer provides, making it slightly less complete."
+    },
+    {
+        "id": 195,
+        "instruction": "ما هي معسكرات رخصة الدرونز في طويق؟",
+        "reference_answer": "ضمن برامج أبريل 2026، تضم المعسكرات \"معسكر التأهيل لرخصة الدرونز وتحليل البيانات الفوتوغرامترية\" و\"معسكر هندسة الدرونز التطبيقي\".",
+        "model_answer": "يُستضاف منصة طويق للتدريب على رخصة الدرونز (UAV) في معسكر طويق، وهو مركز تدريب تقني حديث يعتبر من أفضل الأماكن للتدريب على رخصة الطائرات بدون طيار.",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer correctly identifies the general topic (drone license training at Tuwaiq) and mentions Tuwaiq as a training center, showing some relevance. However, it fails to provide the specific camps mentioned in the Reference Answer ('معسكر التأهيل لرخصة الدرونز وتحليل البيانات الفوتوغرامترية' and 'معسكر هندسة الدرونز التطبيقي') and omits the April 2026 program context. It is incomplete and lacks the precise details required by the instruction."
+    },
+    {
+        "id": 196,
+        "instruction": "ما هي الشهادات الاحترافية للذكاء الاصطناعي في طويق؟",
+        "reference_answer": "لا توجد معلومات في المصادر حول شهادات محدّدة خاصة بالذكاء الاصطناعي، لكن طويق تقدم برامج معتمدة في علوم البيانات والذكاء الاصطناعي.",
+        "model_answer": "توفر طويق برامج شهادات احترافية في الذكاء الاصطناعي، مثل شهادة \"ذكاء اصطناعي\"، وتتاح هذه البرامج بشكل دوري.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer incorrectly claims specific AI certificates exist at Tuwaiq, while the reference states no information about specific certificates is available. However, it correctly mentions Tuwaiq offers AI-related programs, aligning partially with the reference's mention of data science and AI programs. The answer is partially relevant but inaccurate regarding specific certificates."
+    },
+    {
+        "id": 197,
+        "instruction": "ما هي معسكرات التحليل الذكاء الاصطناعي في طويق؟",
+        "reference_answer": "ضمن برامج أبريل 2026 أعلنت طويق عن \"دبلوم علوم البيانات والذكاء الاصطناعي\" و\"معسكر هندسة حوكمة الذكاء الاصطناعي وأتمتة مراكز العمليات الأمنية (SOC)\".",
+        "model_answer": "تشمل برامج معسكرات الذكاء الاصطناعي في أكاديمية طويق البرامج التدريبية في الذكاء الاصطناعي وبرمجة الكود الآلي.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially relevant but lacks accuracy and completeness. It correctly identifies that Tuwaiq Academy offers AI-related training programs, but it fails to specify the exact AI analysis camps mentioned in the reference answer (Data Science and AI Diploma, AI Governance Engineering and SOC Automation Camp). The model's response is too vague and omits key details, making it incomplete and less accurate compared to the reference."
+    },
+    {
+        "id": 198,
+        "instruction": "ما هي نسبة الطلاب السعوديين في برامج طويق؟",
+        "reference_answer": "تشترط طويق في برامجها غالباً الجنسية السعودية، مما يجعل نسبة السعوديين في البرامج قريبة من 100%.",
+        "model_answer": "65% من الطلاب في برامج طويق السعوديون.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides a specific percentage (65%) that contradicts the reference answer's indication of near 100% Saudi participation due to citizenship requirements. While the model answer is relevant to the question about Saudi student percentages, it lacks accuracy compared to the authoritative reference. No supporting evidence or context is provided in the model answer to explain the discrepancy."
+    },
+    {
+        "id": 199,
+        "instruction": "هل تقدم طويق دبلومات معتمدة عالمياً؟",
+        "reference_answer": "أطلقت طويق دبلوم تطوير الألعاب والميتافيرس مع Meta، وهو معتمد دولياً عبر الشراكة مع شركة عالمية.",
+        "model_answer": "نعم، تقدم أكاديمية طويق برامج معتمدة من أكاديميات عالمية مثل أكاديمية سافوي.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly states that Tuwaiq Academy offers accredited programs, which aligns with the Reference Answer's confirmation of international accreditation. However, it lacks specificity by not mentioning the specific diploma (Game Development and Metaverse with Meta) or the global partner (Meta), and it references Savoy Academy instead, making it incomplete and less precise compared to the Reference Answer."
+    },
+    {
+        "id": 200,
+        "instruction": "ما هو دور طويق في إثراء المحتوى العربي التعليمي؟",
+        "reference_answer": "ساهمت طويق بإطلاق منصة \"سطر\" العربية لتعليم البرمجة والتقنيات، مما يعزز المحتوى التقني العربي المتاح للمتعلمين.",
+        "model_answer": "يُعدُّ مركز طويق للتعليم التقني (طويق) من مراكز تطوير المحتوى التقني، وتتواجد لديه طويق أكاديمية تقنية، وتقدم الكثير من البرامج والكتب التعليمية التي تتوافق مع احتياجات السوق.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly identifies Tuwaiq's role in technical education content development and mentions relevant initiatives like Tuwaiq Academy and educational programs, which aligns with the instruction's focus on enriching Arabic educational content. However, it lacks the specific, concrete example provided in the reference answer (launching the 'Satr' platform for programming education), making it less precise and complete. The answer is relevant but could be more detailed and accurate regarding Tuwaiq's direct contributions."
+    },
+    {
+        "id": 201,
+        "instruction": "ما هي المسابقات الأمنية التي تنظمها طويق؟",
+        "reference_answer": "تنظم طويق مسابقات تقنية مثل \"تحديات طويق\" للأمن السيبراني وبرنامج \"مكافآت الثغرات\" لتشجيع اكتشاف الثغرات الأمنية.",
+        "model_answer": "لا تتوفر معلومات واضحة حول المسابقات الأمنية التي تقدمها طويق.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and irrelevant. It states that no clear information is available about security competitions organized by طويق, but the reference answer clearly specifies two such competitions: 'تحديات طويق' for cybersecurity and 'مكافآت الثغرات' for bug bounty programs. The model failed to provide any accurate information, showing no alignment with the reference."
+    },
+    {
+        "id": 202,
+        "instruction": "ما هي نسبة نجاح طويق في المسابقات الدولية؟",
+        "reference_answer": "تميز طويق بحصوله على جوائز في مسابقات دولية مثل ITEX وWRO وSeoul، لكن المصادر لا تحدد نسبة نجاح؛ الجوائز المذكورة تدل على نتائج متميزة.",
+        "model_answer": "71% من المسابقات التي شاركت فيها فازت فيها طويق بالمراكز الأولى.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides a specific percentage (71%) that is not supported by the reference answer, which explicitly states that sources do not specify a success rate. While the model answer is relevant to the instruction about success rates in international competitions, it introduces unverified numerical data that contradicts the reference's acknowledgment of unspecified success rates. The answer is partially relevant but inaccurate regarding the specific claim."
+    },
+    {
+        "id": 203,
+        "instruction": "هل لدى طويق فرق للمسابقات البرمجية العالمية؟",
+        "reference_answer": "نعم، حققت فرق طويق جوائز في مسابقات برمجية دولية متعددة (مثل مسابقات Apple Swift وITEX) مما يدل على مشاركتها في المنافسات التقنية العالمية.",
+        "model_answer": "نعم، يشارك الطلاب في منافسات دولية مثل \"Codeforces\" و \"ICPC\"، التي يتم تنظيمها بمشاركة دولية.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly confirms participation in international programming competitions (accuracy) and provides relevant examples (relevance), but it lacks completeness by not mentioning the specific achievements (awards) or competitions (Apple Swift, ITEX) referenced in the ground truth, and it generalizes to 'students' rather than specifying 'Tuwaiq teams'."
+    },
+    {
+        "id": 204,
+        "instruction": "هل تقدم أكاديمية طويق دورات بالإنجليزية؟",
+        "reference_answer": "تركز طويق على المحتوى التقني، وقد تُدرّس بعض البرامج المتقدمة بالإنجليزية، لكن منصاتها الرئيسية (مثل \"سطر\") تقدم المحتوى باللغة العربية.",
+        "model_answer": "نعم، تقدم أكاديمية طويق دورات بالإنجليزية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially accurate but incomplete and oversimplified. While it correctly acknowledges that some programs may be taught in English, it fails to mention the primary focus on Arabic content and the technical nature of the academy, as specified in the reference answer. This omission reduces completeness and relevance."
+    },
+    {
+        "id": 205,
+        "instruction": "ما معسكرات \"حوكمة الذكاء الاصطناعي\" في طويق؟",
+        "reference_answer": "أعلنت طويق معسكر في أبريل 2026 بعنوان \"معسكر هندسة حوكمة الذكاء الاصطناعي وأتمتة مراكز العمليات الأمنية (SOC)\" ضمن برامجها التقنية.",
+        "model_answer": "أُنشِئت في عام 2022، وهي تُعتبر أول معسكرات حوكمة الذكاء الاصطناعي في المنطقة الخضراء.",
+        "judge_score": 1,
+        "judge_rationale": "The Model Answer is completely wrong and irrelevant to the User Instruction. It incorrectly states that the AI governance camps were established in 2022 in the 'Green Region,' while the Reference Answer specifies that Tuwaiq announced a camp in April 2026 focused on 'AI Governance Engineering and Security Operations Center (SOC) Automation.' The Model Answer lacks accuracy, completeness, and relevance, failing to address the correct timeframe, location, or purpose of the camps as per the Reference Answer."
+    },
+    {
+        "id": 206,
+        "instruction": "هل طويق معتمدة رسمياً من وزارة التعليم؟",
+        "reference_answer": "لا تذكر المصادر اعتمادًا من وزارة التعليم؛ أكاديمية طويق تعمل برعاية الاتحاد السعودي للأمن السيبراني ولا تظهر كمؤسسة تعليمية جامعية رسمية.",
+        "model_answer": "لا تتوفر معلومات كافية حول معتمدة وزارة التعليم.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer acknowledges insufficient information but fails to provide the specific clarification from the reference answer that Tuwaiq Academy operates under the Saudi Federation for Cybersecurity and is not officially recognized as a university-level educational institution by the Ministry of Education. It is partially relevant but incomplete and lacks the key details that address the user's question about official accreditation."
+    },
+    {
+        "id": 207,
+        "instruction": "ما برامج الروبوت المتوفرة في طويق؟",
+        "reference_answer": "تشمل برامج طويق في الروبوت دورات وبرامج تدريبية في بناء وبرمجة الروبوتات؛ وقد فاز طويق بمركز متقدم في مسابقات روبوت دولية مما يعكس جودة التدريب.",
+        "model_answer": "توفر أكاديمية طويق برامجًا في مجالات البرمجة والروبوتيكس، مثل Python وJava وRobot Operating System (ROS).",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies that Tuwaiq offers robotics programs and mentions specific technical areas (Python, Java, ROS), which shows relevance. However, it lacks completeness compared to the Reference Answer, which specifies training in building/programming robots and mentions international competition achievements. The Model Answer is accurate but misses key details about the nature and quality of the programs."
+    },
+    {
+        "id": 208,
+        "instruction": "كيف تدمج طويق الذكاء الاصطناعي في مناهجها؟",
+        "reference_answer": "يعتمد منهاج طويق الحديث على تضمين دورات الذكاء الاصطناعي، مثل المعسكر التأسيسي في الذكاء الاصطناعي، وتحديث محتوياتها بآخر تطورات المجال.",
+        "model_answer": "يهدف مركز طويق للذكاء الاصطناعي إلى دمج مهارات الذكاء الاصطناعي في برامجها التعليمية، مما يُشكل جزءًا لا يتجزأ من المناهج الدراسية.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies the general goal of integrating AI skills into educational programs at Tuwaiq, which aligns with the Instruction's focus. However, it lacks the specific details provided in the Reference Answer, such as the mention of the foundational AI camp and the continuous updating of content with the latest developments. This omission reduces completeness and precision, though the answer remains relevant and partially accurate."
+    },
+    {
+        "id": 209,
+        "instruction": "هل تقدم طويق معسكرات صيفية؟",
+        "reference_answer": "لا يوجد ذكر محدَّد لمعايير موسمية، لكن الأكاديمية تقدم برامج تدريبية على مدار العام، ويمكن أن تشمل فترات الصيف حسب خطة كل عام.",
+        "model_answer": "نعم، تقدم أكاديمية طويق معسكرات صيفية لطلاب المدارس المتقدمة.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer incorrectly states that Tuwaq Academy offers summer camps, while the reference answer clarifies there is no specific mention of seasonal criteria and programs are offered year-round, potentially including summer periods depending on annual plans. The model answer is partially relevant but inaccurate in its definitive claim."
+    },
+    {
+        "id": 210,
+        "instruction": "هل لدى أكاديمية طويق مجتمع خريجين رسمي؟",
+        "reference_answer": "لم تذكر المصادر إنشاء مجتمع خريجين رسمي، ولكن الأكاديمية تنظم فعاليات توظيف تجمع الخريجين بفرص عمل.",
+        "model_answer": "نعم، توجد جمعية خريجي الأكاديمية.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and contradicts the reference answer. The reference answer explicitly states that no official alumni community has been mentioned in sources, while the model incorrectly claims there is an alumni association. This demonstrates a fundamental failure in accuracy and relevance to the instruction."
+    },
+    {
+        "id": 211,
+        "instruction": "ما المبادرات التطوعية التي يقوم بها طويق؟",
+        "reference_answer": "لم تذكر المصادر أي مبادرات تطوعية خاصة بأكاديمية طويق، حيث تركز المعلومات المنشورة على البرامج التعليمية.",
+        "model_answer": "يشارك طويق في عدة مبادرات تطوعية مثل \"كأس التطوع\" و\"مبادرة طويق\"، ويساهم في المسابقات الرياضية والفعاليات الثقافية.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and irrelevant. It incorrectly claims that طويق participates in specific volunteer initiatives like 'كأس التطوع' and 'مبادرة طويق', and mentions involvement in sports competitions and cultural events. However, the reference answer clearly states that no volunteer initiatives are mentioned in sources, as published information focuses on educational programs. The model answer contradicts the reference, lacks accuracy, and introduces fabricated information."
+    },
+    {
+        "id": 212,
+        "instruction": "ما نسبة إكمال المعسكرات في أكاديمية طويق؟",
+        "reference_answer": "لم تذكر المصادر نسبة مئوية محددة لإكمال المعسكرات؛ وتكون نسبة الإكمال عادة عالية بين المشاركين المتميزين.",
+        "model_answer": "90% تقريبًا من المشاركين يكملهم البرنامج.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides a specific percentage (90%) which contradicts the reference answer stating no specific percentage is mentioned in sources. While the model answer is relevant to the instruction about completion rates, it lacks accuracy by asserting a precise figure not supported by the reference. The completeness is limited as it doesn't reflect the reference's nuance about high completion rates among distinguished participants."
+    },
+    {
+        "id": 213,
+        "instruction": "هل أكاديمية طويق مجانية أم مدفوعة؟",
+        "reference_answer": "لا تحدد المصادر ما إذا كانت برامج طويق مجانية أو مدفوعة بالضبط؛ وقد تقدم بعض المعسكرات بالمجان وشهادات مقابل رسوم الترشيح.",
+        "model_answer": "يُدرج التعلم في أكاديمية طويق ضمن برامجها المجانية.",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer states that learning at Tuwaiq Academy is included in its free programs, which is partially correct but overly definitive. The Reference Answer clarifies that sources do not specify exactly whether programs are free or paid, noting some camps may be free while certificates might require fees. The Model Answer lacks the nuance and completeness of the Reference Answer, making it somewhat misleading despite containing a kernel of truth."
+    },
+    {
+        "id": 214,
+        "instruction": "ما هي المدة المتوقعة لإنهاء معسكرات طويق؟",
+        "reference_answer": "تختلف مدة المعسكرات في طويق حسب البرنامج، وتتراوح عموماً من بضعة أشهر إلى 9 أشهر للبرامج الطويلة.",
+        "model_answer": "30 شهرًا (أثلاث سنوات).",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely inaccurate and irrelevant to the instruction. The reference answer states that camps in Tuwaiq range from a few months to 9 months for long programs, while the model answer claims 30 months (2.5 years), which is far outside this range and contradicts the ground truth."
+    },
+    {
+        "id": 215,
+        "instruction": "هل يمكن الانضمام إلى طويق في أي وقت؟",
+        "reference_answer": "لا، يتطلب الانضمام التسجيل في فترات محددة وفق مواعيد المعسكرات المعلنة من قبل الأكاديمية.",
+        "model_answer": "لا توجد معلومات رسمية حول موعد التقديم، إلا أن الأشخاص الذين يظهرون مهاراتهم في مجال البرمجة أو علوم الحوسبة هم الأكثر ترجيحًا للقبول.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially relevant but incomplete and inaccurate. It correctly addresses the question about joining Tuwaiq (طويق) but fails to provide the key information from the reference answer: that registration is only possible during specific periods aligned with announced camp schedules. Instead, it focuses on candidate qualifications, which is not what was asked. This makes the answer misleading and insufficient."
+    },
+    {
+        "id": 216,
+        "instruction": "هل لدى طويق مكتبة إلكترونية للمواد؟",
+        "reference_answer": "لم يتم ذكر وجود مكتبة إلكترونية منفصلة، لكن منصة \"سطر\" تعمل كمورد تفاعلي للدورات التعليمية.",
+        "model_answer": "نعم، لدى أكاديمية طويق مكتبة إلكترونية تحتوي على مواد أكاديمية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer incorrectly states that Tuwaiq Academy has an electronic library, while the reference answer clarifies that no separate electronic library is mentioned, only the 'Satar' platform as an interactive resource for courses. The model answer is partially relevant but inaccurate regarding the specific resource mentioned."
+    },
+    {
+        "id": 217,
+        "instruction": "ما البرامج التي تقدمها طويق للأطفال دون 12 عاماً؟",
+        "reference_answer": "يقدم برنامج \"طويق للناشئين\" دورات تعليمية للأطفال من عمر 6 إلى 17 عاماً، بحسب البيان الرسمي للأكاديمية.",
+        "model_answer": "تُقدم طويق برامج طويق للأطفال مثل طويق للبنات، وطويق للشباب، والبرامج التعليمية عبر الإنترنت.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer mentions programs for children but lacks specificity about age range (under 12) and does not match the reference answer's precise program name ('طويق للناشئين') and age details (6-17 years). It provides general program types but is incomplete and less accurate compared to the reference."
+    },
+    {
+        "id": 218,
+        "instruction": "كيف تشجع طويق التحول الرقمي في التعليم؟",
+        "reference_answer": "تعزز طويق التحول الرقمي بإطلاق منصات تعليم إلكتروني (كمنصة \"سطر\") وبرامج تدريب حديثة تواكب التقنيات، مما يسهم بزيادة المحتوى الرقمي التعليمي.",
+        "model_answer": "تشجع طويق المدارس على دمج التكنولوجيا في المناهج التعليمية، وتوفر برامج تدريبية لتعليم البرمجة وتقنيات الذكاء الاصطناعي.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, mentioning training programs for programming and AI technologies, which aligns with the Reference Answer's focus on modern training programs. However, it lacks mention of specific digital platforms like 'سطر' and the increase in digital educational content, making it slightly less complete."
+    },
+    {
+        "id": 219,
+        "instruction": "ما هي آلية التقييم في برامج طويق؟",
+        "reference_answer": "تعتمد طويق على شهادات احترافية من شركائها كمعيار للتقييم، بالإضافة إلى المشاريع العملية كجزء من عملية التعلم.",
+        "model_answer": "يتم التقييم بشكل مستمر من خلال المهام المطلوبة، والجوانب الفنية، والتقارير المكتوبة، والمواقع المشاريع، والاختبارات التقنية، وعمليّة المشاريع، والمناقشات الفنية، ومدى التطبيق العملي للعلم.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer provides a detailed list of evaluation methods (tasks, technical aspects, reports, projects, tests, discussions, practical application) which shows good understanding of assessment mechanisms. However, it lacks the specific mention of professional certifications from partners and practical projects as learning components that are explicitly stated in the Reference Answer. The response is relevant and partially complete but misses key elements from the ground truth."
+    },
+    {
+        "id": 220,
+        "instruction": "كيف يتم اختيار المشاركين في المعسكرات الممولة؟",
+        "reference_answer": "عادةً يكون التقديم عبر استمارة على موقع الأكاديمية، وتتم المقابلات والاختيارات بناءً على المعايير المحددة لكل معسكر (كالتحقق من المؤهلات).",
+        "model_answer": "يتم اختيار المشاركين في المعسكرات الممولة عبر معايير محددة مثل التقييم الشخصي، واختيار المتفوقين، ودرجة الالتزام بالمهمة.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly identifies that selection is based on specific criteria, which aligns with the reference answer's mention of 'المعايير المحددة'. However, it lacks the key details from the reference about the application process (via an online form) and interviews, and it provides vague criteria (e.g., 'التقييم الشخصي', 'درجة الالتزام') without mentioning qualifications verification, making it incomplete and less precise."
+    },
+    {
+        "id": 221,
+        "instruction": "هل أكاديمية طويق جهة حكومية؟",
+        "reference_answer": "أكاديمية طويق مبادرة وطنية تُنفذ تحت مظلة الاتحاد السعودي للأمن السيبراني والبرمجة، وهي جهة رعاية وطنية رسمية بالرغم من عملها ككيان تدريبي مستقل.",
+        "model_answer": "لا، فهي مشروع أعمال خاص يقع تحت إدارة شركة طويق للتنمية.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and contradicts the reference answer. The reference clearly states that Tuwaiq Academy is a national initiative under the Saudi Federation for Cybersecurity and Programming, operating as an official national entity, while the model answer incorrectly claims it is a private business project under Tuwaiq Development Company. This demonstrates a fundamental lack of accuracy and relevance to the instruction."
+    },
+    {
+        "id": 222,
+        "instruction": "ما هي التحديات المستقبلية لطويق؟",
+        "reference_answer": "تطمح طويق إلى مضاعفة برامجها وشراكاتها العالمية، ولم تذكر المصادر تحديات محددة، لكن أي منظمة ناشئة تواجه تحديات الازدهار والتوسع المستدام.",
+        "model_answer": "تشكل تحديات التقنية المتقدمة، مثل الذكاء الاصطناعي، وتنافس الشركات العالمية، وتنظيم العلاقات مع المصالح المحلية، وفرصًا للنمو والابتكار.",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer lists general challenges for tech startups (advanced technology, global competition, local relations) but fails to address the specific context of طويق's future challenges as implied in the Reference Answer. It lacks accuracy by not acknowledging that no specific challenges were mentioned in sources, and it introduces growth/innovation opportunities instead of focusing solely on challenges, reducing relevance to the instruction."
+    },
+    {
+        "id": 223,
+        "instruction": "كيف تواكب طويق تطورات الذكاء الاصطناعي؟",
+        "reference_answer": "من خلال إطلاق برامج تدريبية في الذكاء الاصطناعي، مثل معسكر \"الذكاء الاصطناعي\" التأسيسي ودبلوم علوم البيانات، مما يعكس تبنّي التقنيات الحديثة.",
+        "model_answer": "يركز تطوير طويق على الذكاء الاصطناعي والبرمجة الآلية وتنفيذ تقنيات الذكاء الاصطناعي لتقديم الخدمات الذكية.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer is partially relevant and accurate, mentioning AI focus and smart services, but lacks the specific training programs (AI camp, Data Science diploma) and adoption of modern technologies mentioned in the Reference Answer, making it incomplete."
+    },
+    {
+        "id": 224,
+        "instruction": "هل تقدم طويق دورات في شبكات الحاسوب؟",
+        "reference_answer": "لم تذكر المصادر دورات محددة في شبكات الحاسوب، ولكن المجالات ذات الصلة قد تُدرَّج ضمن برامج الهندسة البرمجية أو الأمن.",
+        "model_answer": "نعم، تقدم أكاديمية طويق دورات في مجال البرمجة والشبكات.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer incorrectly states that Tuwaiq Academy offers networking courses, while the reference answer clarifies that no specific networking courses are mentioned in sources, though related areas might be covered in software engineering or security programs. The model answer is partially relevant but inaccurate regarding the specific claim about networking courses."
+    },
+    {
+        "id": 225,
+        "instruction": "ما هي نسبة نجاح طويق في مسابقات الأمان؟",
+        "reference_answer": "حققت طويق مراكز متقدمة في مسابقات الأمن كجزء من إنجازاتها العالمية (ميداليات دولية)، لكن المصادر لم تحدد نسبة مئوية محدَّدة.",
+        "model_answer": "100% من المشاركين حصلوا على شهادات completion (التكامل) في مسابقات الأمان.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially relevant but inaccurate and incomplete. It claims '100% of participants received completion certificates in security competitions,' which is not supported by the reference answer. The reference states that Tuwaiq achieved advanced positions and international medals in security competitions but does not specify a percentage or mention completion certificates. The model answer introduces unsupported details and fails to align with the reference's emphasis on achievements without a specific percentage."
+    },
+    {
+        "id": 226,
+        "instruction": "كم عدد المشاركات النسائية في برامج طويق؟",
+        "reference_answer": "لا توجد إحصائية معروضة في المصادر عن نسبة الإناث، لكن الأكاديمية تروج لمشاركة المرأة في التقنية كما يظهر من برامج مخصصة لها.",
+        "model_answer": "30% من المشاركين في برامج طويق هم من النساء.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides a specific percentage (30%) that contradicts the reference answer, which states no statistics are available from sources. While the model's answer is relevant to the instruction about female participation, it lacks accuracy and factual support compared to the ground truth."
+    },
+    {
+        "id": 227,
+        "instruction": "ما هي شهادة CompTIA المتوفرة في طويق؟",
+        "reference_answer": "تقدم طويق برامج تدريب لمواد CompTIA في الأمن السيبراني والحوسبة، وهي جزء من الاعتمادات المهنية التي حصلت عليها.",
+        "model_answer": "تقدم أكاديمية طويق شهادة CompTIA A+ (IT Essentials) لطلابها، وهي شهادة تقنية معتمدة عالميًا.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly identifies that Tuwaiq Academy offers a CompTIA certification and provides a specific example (CompTIA A+), which is accurate and relevant. However, it is incomplete compared to the Reference Answer, which mentions broader CompTIA training programs in cybersecurity and computing, not just one specific certification. The Model Answer lacks the comprehensive scope of the Reference Answer."
+    },
+    {
+        "id": 228,
+        "instruction": "هل طويق تعتمد طريقة التعلم التعاوني؟",
+        "reference_answer": "أكاديمية طويق تشجع التعلم التعاوني ضمن بيئة تنافسية محفزة، وفق ما ورد في منهجية التدريب (التطبيقات العملية).",
+        "model_answer": "نعم، تعتمد طويق في بعض البرامج التعلم التعاوني.",
+        "judge_score": 4,
+        "judge_rationale": "The model answer correctly confirms that Tuwaiq Academy uses collaborative learning in some programs, which aligns with the reference answer's statement about encouraging collaborative learning in a competitive environment. However, it lacks the additional context about practical applications and the competitive environment mentioned in the reference, making it slightly less complete."
+    },
+    {
+        "id": 229,
+        "instruction": "ما هي برامج المسار التأسيسي في طويق؟",
+        "reference_answer": "يشمل ذلك معسكر \"المسار التأسيسي\" للأكاديميات الشريكة مثل هولبيرتون (برمجة) وأبل (برمجة الهواتف)، حيث يؤهل المشاركين بالمهارات الأساسية للبرمجة.",
+        "model_answer": "لا تتوفر معلومات تفصيلية عن برامج المسار التأسيسي في المصادر.",
+        "judge_score": 1,
+        "judge_rationale": "The Model Answer is completely wrong and irrelevant. It states that detailed information is unavailable, but the Reference Answer clearly provides specific information about the foundational pathway programs at Tuwaiq, including partner academies like Holberton and Apple and their focus on basic programming skills. The Model Answer fails to address the User Instruction at all."
+    },
+    {
+        "id": 230,
+        "instruction": "كيف تدمج طويق التعلم الإلكتروني مع الحضوري؟",
+        "reference_answer": "تعتمد طويق نموذجاً هجيناً يجمع بين الحضور والمواد الإلكترونية (مثل منصة \"سطر\" وورش العمل)، لتعزيز التعلم بالمهارات العملية.",
+        "model_answer": "تشمل برامج طويق مثل \"منصة طويق\" و\"أكاديمية طويق\" استخدام تقنيات التعلم الإلكتروني (eLearning) بالتوازي مع التدريب الحضوري.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly identifies that طويق integrates e-learning with in-person training, mentioning specific programs like 'منصة طويق' and 'أكاديمية طويق', which aligns with the Reference Answer's mention of a hybrid model. However, it lacks the specific details about the 'سطر' platform and practical skills enhancement mentioned in the Reference Answer, making it slightly less complete."
+    },
+    {
+        "id": 231,
+        "instruction": "ما هي جهود طويق في المسابقات التقنية الداخلية؟",
+        "reference_answer": "تنظم طويق فعاليات ومسابقات داخلية لتنشيط بيئة التعلم (مثل رالي برمجي)، لكن التركيز الأكبر ينصب على المسابقات الدولية الرائدة.",
+        "model_answer": "توفر طويق مسابقاتًا وفعالياتًا تقنية داخل المنظمة، مما يسهم في تطوير مهارات الفريق وزيادة التفاعل التقني.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly stating that Tuwaig provides internal technical competitions and events that contribute to skill development and technical interaction. It aligns well with the Reference Answer's mention of internal activities. However, it lacks the Reference Answer's additional context about the greater focus on leading international competitions, making it slightly less complete."
+    },
+    {
+        "id": 232,
+        "instruction": "هل تقدم طويق دورات في تصميم الواجهات والتطبيقات؟",
+        "reference_answer": "ذكرت المصادر أنها تقدم مسارات في تطوير الويب وتطبيقات الهواتف ضمن برامجها العامة، دون تفصيل خاص بتصميم الواجهات.",
+        "model_answer": "نعم، تركز بعض البرامج والقوائم التدريبية على تطوير الواجهات وتطبيقات الأجهزة المحمولة.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer is partially accurate and relevant but lacks completeness. It correctly identifies that programs focus on interface development and mobile applications, aligning with the Reference Answer's mention of web and mobile app development. However, it fails to note the absence of specific detail on interface design, as highlighted in the Reference Answer, and does not mention the general program context or the lack of detailed specialization in interface design."
+    },
+    {
+        "id": 233,
+        "instruction": "ما نسب المشاركة في برامج السحابة (Cloud) بطويق؟",
+        "reference_answer": "معتمدة، لكن المصادر لم تعط نسباً محددة؛ توفِّر طويق دورات في الحوسبة السحابية عبر شراكتها مع Alibaba Cloud.",
+        "model_answer": "100% من المشاركين في برنامج \"سحابة\" تمكنوا من الحصول على شهادة معتمدة.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides a specific percentage (100%) that is not supported by the reference answer, which explicitly states that no specific percentages are available from sources. While the model answer correctly mentions certification (شهادة معتمدة), it invents data that contradicts the reference's acknowledgment of unspecified participation rates, making it inaccurate and misleading despite partial relevance to cloud programs."
+    },
+    {
+        "id": 234,
+        "instruction": "ما هي اللغات التي يتطلبها التسجيل في طويق؟",
+        "reference_answer": "تشترط طويق إتقان اللغة العربية في برامج الناشئين، وربما اللغة الإنجليزية في برامج متقدمة، ولكن المصادر الرسمية ذكرت العربية بشكل رئيسي.",
+        "model_answer": "ُلا يُطلب اللجوء إلى اللغات الأجنبية في اختبارات البرامج، لكنه يُدرَّس كجزء من البرامج الأكاديمية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer is partially relevant but incomplete and inaccurate. It correctly mentions that foreign languages aren't required for program tests, which aligns with the reference's implication about Arabic being primary. However, it fails to specify Arabic as the main requirement for registration, omits the distinction between youth and advanced programs, and incorrectly states foreign languages are taught academically without addressing registration requirements directly. The answer doesn't fully address the user's question about registration language requirements."
+    },
+    {
+        "id": 235,
+        "instruction": "ما هي معسكرات برمجة الهواتف المحمولة؟",
+        "reference_answer": "لا توجد معلومات صريحة عن معسكر منفصل لتطبيقات الهواتف، لكن البرامج المهنية تشمل تطوير الويب والهواتف والواجهات.",
+        "model_answer": "تشمل معسكرات برمجة الهواتف المحمولة برامج مثل \"أبل سويفتوي\" (Apple SwiftUI) و\"فيرت\" (Flutter) و\"روكت\" (Rocket).",
+        "judge_score": 2,
+        "judge_rationale": "The Model Answer incorrectly lists specific programming frameworks (SwiftUI, Flutter, Rocket) as examples of mobile programming camps, which is factually inaccurate as these are technologies, not camps. The Reference Answer correctly states there is no explicit information about separate mobile app camps, noting that professional programs include web, mobile, and interface development. The Model Answer is partially relevant to mobile programming but lacks accuracy and completeness, misrepresenting the concept of camps."
+    },
+    {
+        "id": 236,
+        "instruction": "ما هي المشاريع التي ينفذها المتدربون في طويق؟",
+        "reference_answer": "يعمل المشاركون غالباً على مشاريع تطبيقية عملية خلال المعسكرات، ولكن المصادر لا تذكر أمثلة محدَّدة.",
+        "model_answer": "يُقدّم المتدربون في أكاديمية طويق مشاريع متنوعة، مثل التطبيقات المبتكرة، والألعاب، والخدمات الرقمية، والمواقع الإلكترونية، وبرامج إنتاج محتوى الرسوم المتحركة والفيديو والصوت.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer provides specific examples of projects (innovative applications, games, digital services, websites, animation/video/audio content production programs) which makes it more detailed than the Reference Answer. However, the Reference Answer explicitly states that sources do not mention specific examples, suggesting the Model Answer may be speculative or unsupported. The Model Answer is relevant to the instruction and appears complete, but its accuracy is questionable given the Reference Answer's caution about specificity."
+    },
+    {
+        "id": 237,
+        "instruction": "هل تعقد طويق وورش مجانية للجمهور؟",
+        "reference_answer": "تنظم طويق \"لقاءات معرفية\" مجانية للاشتراك العام؛ وشركاؤها ينظمون هذه الفعاليات للإفادة المجتمعية.",
+        "model_answer": "نعم، تُعد طويق من المنظمات التي تقدم برامج تعليمية مجانية وورش مجانية للجمهور، وهي تُعلن عن برامجها عبر موقعها الإلكتروني.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is mostly accurate and relevant, correctly stating that Tuwaig offers free educational programs and workshops to the public. However, it lacks the specific detail from the Reference Answer about 'knowledge meetings' organized by partners for community benefit, making it slightly less complete."
+    },
+    {
+        "id": 238,
+        "instruction": "ما هي معسكرات علم البيانات في طويق؟",
+        "reference_answer": "ضمن برامجها، أعلنت طويق عن \"دبلوم علوم البيانات والذكاء الاصطناعي\" كواحد من معسكراتها التقنية المتقدمة.",
+        "model_answer": "لا توجد معلومات متعلقة بمعسكرات علم البيانات في المصادر.",
+        "judge_score": 1,
+        "judge_rationale": "The Model Answer is completely wrong and irrelevant. It states there is no information about data science camps in Tuwaiq, but the Reference Answer clearly confirms that Tuwaiq offers a 'Diploma in Data Science and Artificial Intelligence' as one of its advanced technical camps. The Model Answer fails to provide any accurate information and contradicts the established facts."
+    },
+    {
+        "id": 239,
+        "instruction": "كيف تضمن طويق جودة المناهج؟",
+        "reference_answer": "تتعهد أكاديمية طويق بالشراكة مع شركات تقنية عالمية وتطبيق تجارب تدريبية فعالة، مع اعتماد المعايير العالمية في شهاداتها.",
+        "model_answer": "يركز طويق على التطوير المستمر للمناهج، ويتواصل مع الشركاء الأكاديميين لضمان صلاحية المادة التدريبية.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer is partially relevant and accurate but incomplete. It correctly mentions continuous curriculum development and academic partnerships, which aligns with the Reference Answer's focus on quality assurance. However, it misses key elements from the Reference Answer: partnership with global tech companies, effective training experiences, and adherence to international standards in certifications. The Model Answer is not wrong but lacks the comprehensive details provided in the Reference Answer."
+    },
+    {
+        "id": 240,
+        "instruction": "ما هي نسبة الطلاب الذين يكملون معسكراتهم؟",
+        "reference_answer": "لا توجد معلومات مفصلة في المصادر بشأن نسبة الإكمال، لكن يتوقع أن تكون عالية بين المتقدمين الملتزمين.",
+        "model_answer": "98% من الطلاب يصلون إلى مرحلة الإكمال (المرحلة النهائية).",
+        "judge_score": 2,
+        "judge_rationale": "The model answer provides a specific percentage (98%) that claims high completion rates, but the reference answer explicitly states there is no detailed information about completion percentages and only suggests expectations of high rates among committed applicants. The model's precise numerical claim is not supported by the reference and could be misleading."
+    },
+    {
+        "id": 241,
+        "instruction": "هل لدى طويق محتوى تعليمي للأطفال الصم أو المكفوفين؟",
+        "reference_answer": "لا تتوفر في المصادر معلومات حول برامج خاصة بذوي الإعاقة الحسية؛ البرامج المعلنة موجهة للطلاب العاديين.",
+        "model_answer": "لا تُذكر المصادر وجود محتوى إضافي للمكفوفين أو الأطفال الصم في منصة طويق.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer is accurate and relevant, correctly stating that sources do not mention additional content for blind or deaf children on the Tawiyq platform, aligning with the Reference Answer's core message about lack of specialized programs. It is slightly less complete than the Reference Answer, which explicitly mentions programs for regular students, but still effectively addresses the user's query."
+    },
+    {
+        "id": 242,
+        "instruction": "ما هي الأحداث السنوية التي تنظمها طويق؟",
+        "reference_answer": "تنظم طويق فعاليات سنوية مثل \"لقاء التوظيف\" ومعسكرات استراتيجية سنوية; أيضاً تشارك في معارض تقنية خاصة بالحكومة والجامعات.",
+        "model_answer": "لا يوجد مصدر موثوق يذكر الأحداث السنوية التي تنظمها طويق.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely wrong and irrelevant. It states there is no reliable source mentioning annual events organized by Tuwaiq, but the reference answer clearly lists specific annual events like 'Employment Meeting' and strategic camps, plus participation in tech exhibitions. The model failed to provide any accurate information and contradicted the known facts."
+    },
+    {
+        "id": 243,
+        "instruction": "ما هي تكاليف برامج طويق؟",
+        "reference_answer": "لم تذكر المصادر معلومات عن تكلفة الالتحاق، ويُفترض أن بعضها مجاني بينما يتطلب البعض الآخر رسوم تسجيل حسب طبيعة البرنامج.",
+        "model_answer": "يتراوح متوسط التكلفة بين 500 إلى 5,000 ريال سعودي، حسب البرنامج.",
+        "judge_score": 1,
+        "judge_rationale": "The Model Answer provides specific cost figures (500-5,000 SAR) that directly contradict the Reference Answer, which states no cost information is available and suggests some programs may be free while others have fees. This makes the Model Answer inaccurate and misleading, as it presents unverified data as factual."
+    },
+    {
+        "id": 244,
+        "instruction": "هل تعتمد طويق على نظام الساعات المعتمدة؟",
+        "reference_answer": "طويق لا تذكر نظام الساعات المعتمدة التعليمي الأكاديمي؛ هي برامج تدريبية احترافية تتجلى في شهادات ومهارات حقيقية.",
+        "model_answer": "نعم، تتبع طويق منهجاً يعتمد على ساعات معتمدة.",
+        "judge_score": 1,
+        "judge_rationale": "The model answer is completely incorrect and contradicts the reference answer. The reference clearly states that Tuwaiq does not use an academic credit hour system, while the model claims it does. This demonstrates a fundamental misunderstanding of the information provided."
+    },
+    {
+        "id": 245,
+        "instruction": "ما هي الأنشطة اللامنهجية في طويق؟",
+        "reference_answer": "تركز الأكاديمية على البرامج التقنية التعليمية؛ والأنشطة الإضافية تشمل المسابقات التقنية والنوادي الطلابية (مثل نادي طويق) واللقاءات الفكرية.",
+        "model_answer": "تشمل الأنشطة اللامنهجية في أكاديمية طويق البرامج التعليمية عبر الإنترنت والندوات والورش الفنية والفعاليات الثقافية والرياضية.",
+        "judge_score": 3,
+        "judge_rationale": "The model answer correctly identifies extracurricular activities at Tuwaiq Academy and includes some relevant examples like workshops and cultural events, but it incorrectly lists online educational programs as extracurricular (these are likely core academic offerings) and omits key activities mentioned in the reference answer such as technical competitions, student clubs, and intellectual meetings. The answer is partially accurate but incomplete."
+    },
+    {
+        "id": 246,
+        "instruction": "ما هو مجمل الدعم الحكومي لأكاديمية طويق؟",
+        "reference_answer": "تحظى أكاديمية طويق بدعم من جهات حكومية (الاتحاد السعودي للأمن السيبراني)، وتُنفّذ تحت رعاية وزارة الاتصالات وتقنية المعلومات لضمان استمرار برامجها.",
+        "model_answer": "تقع أكاديمية طويق ضمن برنامج التنمية السيبرانية التابع لوزارة الاتصالات وتقنية المعلومات، مما يشير إلى دعمها الحكومي.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly identifies the government support through the Ministry of Communications and Information Technology, which aligns with the Reference Answer. However, it omits the specific mention of the Saudi Federation for Cybersecurity, making it slightly less complete than the Reference Answer."
+    },
+    {
+        "id": 247,
+        "instruction": "هل لدى طويق أهداف اجتماعية؟",
+        "reference_answer": "تركز رسالتها في الغالب على التعليم والتوظيف التقني. لم تذكر المصادر أهدافاً اجتماعية محددة، لكنها تسعى لتمكين المجتمع من المهارات الرقمية.",
+        "model_answer": "لا توجد أهداف اجتماعية محددة في سياق عمل طويق.",
+        "judge_score": 4,
+        "judge_rationale": "The Model Answer correctly states that there are no specific social goals, aligning with the Reference Answer's mention that sources do not specify social objectives. However, it lacks the additional context from the Reference Answer about طويق's focus on education, technical employment, and digital skills empowerment, making it slightly less complete."
+    },
+    {
+        "id": 248,
+        "instruction": "هل تقدم طويق تدريباً في الإدارة التقنية؟",
+        "reference_answer": "تركز برامج طويق على المهارات التقنية والفنية؛ قد تستهدف برامج مثل Axelos إدارة المشاريع وتقنية المعلومات، لكن لا توجد برامج إدارية صرفة مذكورة.",
+        "model_answer": "نعم، يُغطي البرامج التدريبية في طويق جوانب الإدارة التقنية.",
+        "judge_score": 2,
+        "judge_rationale": "The model answer incorrectly states that Tuwaiq offers training in technical management, while the reference answer clarifies that Tuwaiq focuses on technical and technical skills, with no pure management programs mentioned. The model answer is partially relevant but inaccurate regarding completeness and accuracy compared to the ground truth."
+    },
+    {
+        "id": 249,
+        "instruction": "هل هناك إمكانية للتدريب عن بُعد عبر طويق؟",
+        "reference_answer": "بعض البرامج قد تقدم خيار التعلم عن بُعد، خاصةً عبر منصة \"سطر\"، لكن في العموم تعتمد طويق على التدريس الحضوري التفاعلي.",
+        "model_answer": "لا تُشير المصادر إلى وجود برامج تدريب عن بُعد، لكنها قد توفر مواد تعليمية متاحة عبر الإنترنت.",
+        "judge_score": 3,
+        "judge_rationale": "The Model Answer correctly states that remote training programs are not indicated, aligning with the Reference Answer's emphasis on in-person instruction. However, it introduces 'online educational materials' which is not mentioned in the Reference Answer, making it partially incomplete. The answer is relevant but lacks full accuracy regarding the specific mention of 'Satar' platform in the Reference Answer."
+    }
+]
